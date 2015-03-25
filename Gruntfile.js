@@ -17,8 +17,8 @@ module.exports = function(grunt) {
       one_file: {
         options: {},
         files: [{
-          src: ['README.md'],
-          dest: 'README.html'
+          src: ['index.md'],
+          dest: 'index.html'
         }]
       }
     },
@@ -36,5 +36,9 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-md2html');
   grunt.loadNpmTasks('grunt-contrib-connect');
   grunt.loadNpmTasks('grunt-contrib-watch');
+
+  grunt.registerTask('default','Default Grunt Task Runner',function(){
+    grunt.task.run(['connect','md2html','watch']);
+  });
   
 };
