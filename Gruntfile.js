@@ -12,7 +12,29 @@ module.exports = function(grunt) {
 		
       }
     }
+  },
+     md2html: {
+      one_file: {
+        options: {},
+        files: [{
+          src: ['README.md'],
+          dest: 'README.html'
+        }]
+      }
+    },
+    watch: {
+  scripts: {
+    files: ['*.md'],
+    tasks: ['md2html'],
+    options: {
+      spawn: false,
+    }
   }
+},
+  
   });
+  grunt.loadNpmTasks('grunt-md2html');
   grunt.loadNpmTasks('grunt-contrib-connect');
+  grunt.loadNpmTasks('grunt-contrib-watch');
+  
 };
