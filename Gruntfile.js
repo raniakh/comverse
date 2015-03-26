@@ -31,11 +31,26 @@ module.exports = function(grunt) {
     }
   }
 },
+validation: {
+    options: {
+        reset: grunt.option('reset') || false,
+        stoponerror: false,
+        remotePath: 'http://decodize.com/',
+        remoteFiles: ['html/moving-from-wordpress-to-octopress/',
+                      'css/site-preloading-methods/'], //or 
+        remoteFiles: 'validation-files.json', // JSON file contains array of page paths. 
+        relaxerror: ['Bad value X-UA-Compatible for attribute http-equiv on element meta.'] //ignores these errors 
+    },
+    files: {
+        src: ['<%= yeoman.app %>/*.html']
+    }
+},
   
   });
   grunt.loadNpmTasks('grunt-md2html');
   grunt.loadNpmTasks('grunt-contrib-connect');
   grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-html-validation');
 
   grunt.registerTask('default','Default Grunt Task Runner',function(){
     grunt.task.run(['connect','md2html','watch']);
