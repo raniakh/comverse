@@ -10,7 +10,7 @@
 
 ####**1st** Ever Marketing Oriented Policy Tool 
 
-####[LEARN MORE] 
+####[LEARN MORE]() 
 
 - ##Comverse is Value-Added Service Global Market Leader. [Read more]()
 - ##Managed Services World Congress September 18-19 Berlin, Germany [Read More]()
