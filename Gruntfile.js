@@ -38,7 +38,7 @@ validation: {
         relaxerror: ['Bad value X-UA-Compatible for attribute http-equiv on element meta.'] //ignores these errors 
       },
       files: {
-        src: ['<%= dirs.dest %>/*.html']
+        src: ['<%= config.app %>/*.html']
       }
     }
   
