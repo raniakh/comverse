@@ -32,15 +32,15 @@ module.exports = function(grunt) {
   }
 },
 validation: {
-    options: {
+      options: {
         reset: grunt.option('reset') || false,
-        stoponerror: false,     
+        stoponerror: false,
         relaxerror: ['Bad value X-UA-Compatible for attribute http-equiv on element meta.'] //ignores these errors 
-    },
-    files: {
-        src: ['<%= yeoman.app %>/*.html']
+      },
+      files: {
+        src: ['<%= dirs.dest %>/*.html']
+      }
     }
-},
   
   });
   grunt.loadNpmTasks('grunt-md2html');
