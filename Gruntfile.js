@@ -13,6 +13,12 @@ module.exports = function(grunt) {
       }
     }
   },
+  // Project settings
+  yeoman: {
+    // Configurable paths
+    app: 'app',
+    dist: 'dist'
+  },
      md2html: {
       one_file: {
         options: {},
@@ -38,7 +44,7 @@ validation: {
         relaxerror: ['Bad value X-UA-Compatible for attribute http-equiv on element meta.'] //ignores these errors 
       },
       files: {
-        src: ['<%= config.app %>/*.html']
+        src: ['<%= yeoman.app %>/*.html']
       }
     }
   
