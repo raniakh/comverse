@@ -34,6 +34,7 @@ module.exports = function(grunt) {
     tasks: ['md2html'],
     options: {
       spawn: false,
+      livereload: true,
     }
   }
 },
