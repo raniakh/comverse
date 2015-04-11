@@ -33,7 +33,7 @@
     float: right;
     font-size: 15px;
     padding-top: 5px;
-    display: inline;
+    display: inline-block;
 }
 
 /* ==========================================================================
