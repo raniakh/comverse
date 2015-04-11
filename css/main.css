@@ -12,7 +12,10 @@
     position: fixed;
     background: #FFFFFF;
     box-shadow: 0 0 5px 1px #888888;
-    top: 0;
+    top: 0;  
+}
+.comverse-logo{
+    padding: 5px;
 }
 .nav_links{
     font-size: 15px;
