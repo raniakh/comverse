@@ -87,7 +87,9 @@
     margin: 0;
     display: block;
 }
-
+.section-general{
+    padding-top: 75px;
+}
 
 body{
     font-size: 15px;
