@@ -35,6 +35,9 @@
     display: inline-block;
     color: #808080;
 }
+.side-link a:hover{
+    color:#00BFFF;
+}
 .search{
     float: right;
     display: inline-block;
@@ -60,7 +63,6 @@
     display: inline;
     margin: 0;
     display: block;
-    text-indent: -99999px;
 }
 
 
