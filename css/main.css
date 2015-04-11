@@ -65,7 +65,7 @@
     float: right;
     display: inline-block;
     position: relative;
-    padding-top: 25px;
+    padding-top: -25px;
 }
 .search input{
     border: 2px solid #a1a1a1;
