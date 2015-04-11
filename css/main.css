@@ -41,6 +41,9 @@
     position: relative;
     padding-top: 25px;
 }
+.search input{
+    outline: gray solid thin;
+}
 
 
 body{
