@@ -81,6 +81,7 @@
     display: inline;
     margin: 0;
     display: block;
+    float: right;
 }
 
 
