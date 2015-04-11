@@ -28,7 +28,6 @@
 .nav{
     list-style: none;
 }
-
 .side-link{
     float: right;
     font-size: 15px;
@@ -36,6 +35,11 @@
     display: inline-block;
     color: #808080;
 }
+.search{
+    float: right;
+    display: inline-block;
+}
+
 
 body{
     font-size: 15px;
