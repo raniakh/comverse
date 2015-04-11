@@ -55,9 +55,9 @@
 .side-link a{
     color:#808080;
     text-decoration: none;
-    display: inline;
+    display: inline-block;
     padding-top: 10px;
-    padding-right: 100px;
+    padding-right: 80px;
     margin:0;
 
 }
