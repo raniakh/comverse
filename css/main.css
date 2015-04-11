@@ -43,8 +43,9 @@
 }
 .search input{
     border: 2px solid #a1a1a1;
-    border-radius: 10px;
+    border-radius: 5px;
     margin: 0;
+    height: 15px;
 }
 .search button{
     border: none;
