@@ -48,6 +48,7 @@
 .side-link a{
     color:#808080;
     text-decoration: none;
+    padding-top: 5px;
 }
 .side-link a:hover{
     color:#00BFFF;
