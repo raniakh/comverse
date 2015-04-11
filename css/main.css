@@ -38,6 +38,7 @@
 .search{
     float: right;
     display: inline-block;
+    position: relative;
 }
 
 
