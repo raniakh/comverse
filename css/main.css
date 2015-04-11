@@ -44,7 +44,12 @@
 .search input{
     border: 2px solid #a1a1a1;
     border-radius: 10px;
-
+}
+.search button{
+    border: none;
+    background: none;
+    position: relative;
+    display: inline-block;
 }
 
 
