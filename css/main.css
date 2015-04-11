@@ -16,6 +16,8 @@
 }
 .comverse-logo{
     padding: 10px 20px;
+    float: left;
+    display: inline;
 }
 .nav_links{
     font-size: 15px;
