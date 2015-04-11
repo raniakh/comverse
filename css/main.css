@@ -13,7 +13,7 @@
     background: #FFFFFF;
     box-shadow: 0 0 5px 1px #888888;
     top: 0;  
-    text-align: center;
+    text-align: left;
 }
 .comverse-logo{
     padding: 10px 25px;
@@ -51,6 +51,7 @@
     text-decoration: none;
     display: inline-block;
     padding-top: 0;
+
 }
 .side-link a:hover{
     color:#00BFFF;
