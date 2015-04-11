@@ -49,6 +49,7 @@
 .side-link a{
     color:#808080;
     text-decoration: none;
+    display: inline;
     padding-top: 0;
 }
 .side-link a:hover{
