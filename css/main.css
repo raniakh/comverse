@@ -30,6 +30,7 @@
 }
 .nav a{
     color: #808080;
+    text-decoration: none;
 }
 .side-link{
     float: right;
@@ -40,6 +41,7 @@
 }
 .side-link a{
     color:#808080;
+    text-decoration: none;
 }
 .side-link a:hover{
     color:#00BFFF;
