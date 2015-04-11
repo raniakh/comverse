@@ -99,7 +99,7 @@
 }
 .cubes li{
     display: inline;
-    padding: 0 10px;
+    padding: 0;
 }
 .more-btn{
   background: #3498db;
