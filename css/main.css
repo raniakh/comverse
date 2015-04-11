@@ -40,7 +40,7 @@
     text-decoration: none;
 }
 .nav a:hover{
-    color:#00BFFF;
+    color:#9370DB;
 }
 .side-link{
     float: right;
@@ -57,7 +57,7 @@
 
 }
 .side-link a:hover{
-    color:#00BFFF;
+    color:#9370DB;
 }
 .search{
     float: right;
