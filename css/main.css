@@ -28,7 +28,7 @@
 .nav{
     list-style: none;
 }
-.nav ~ a{
+.nav a{
     color: #808080;
 }
 .side-link{
