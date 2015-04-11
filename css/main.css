@@ -49,11 +49,12 @@
     border: none;
     background: none;
     position: relative;
-    display: inline;
+    display: inline-block;
 }
 .search button img{
-    width: 75px;
-    height: 75px;
+    width: 85px;
+    height: 85px;
+    display: inline;
 }
 
 
