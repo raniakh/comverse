@@ -27,6 +27,7 @@
 }
 .nav{
     list-style: none;
+    color: #808080;
 }
 .side-link{
     float: right;
@@ -34,6 +35,9 @@
     padding-top: 5px;
     display: inline-block;
     color: #808080;
+}
+.side-link a{
+    color:#808080;
 }
 .side-link a:hover{
     color:#00BFFF;
