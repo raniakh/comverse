@@ -26,11 +26,14 @@
     padding-top: 40px;
 }
 .nav{
-    list-style: none;
+    list-style-type: none;
+    margin:0;
+    padding: 0;
 }
 .nav a{
     color: #808080;
     text-decoration: none;
+    display: inline;
 }
 .side-link{
     float: right;
