@@ -25,6 +25,7 @@
     float: left;
     position: relative;
     padding-top: 40px;
+    display: inline-block;
 }
 .nav{
     list-style-type: none;
