@@ -64,7 +64,6 @@
 .search input{
     border: 2px solid #a1a1a1;
     border-radius: 5px;
-    float: right;
     margin: 0;
     height: 15px;
 }
