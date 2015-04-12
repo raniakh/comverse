@@ -104,6 +104,7 @@
 .section-text{
   padding-top: 20px;
   width: 390px;
+  font-weight: normal;
 }
 .cubes{
     list-style-type: none;
