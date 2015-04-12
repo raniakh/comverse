@@ -118,6 +118,15 @@
 .cube-item a{
   text-decoration: none;
 }
+.cube-pink{
+  background: #FF69B4;
+}
+.cube-green{
+  background: #32CD32;
+}
+.cube-orange{
+  background: #FF8C00;
+}
 .more-btn{
   background: #3498db;
   background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
