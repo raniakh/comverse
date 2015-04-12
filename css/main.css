@@ -105,9 +105,12 @@
     margin-top: 100px;
     padding-bottom: 20px
 }
-.cubes li{
-    display: inline;
-    padding: 0;
+.cube-item{
+  border-radius: 8px;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  display: inline-block;
+  width: 280px;
 }
 .more-btn{
   background: #3498db;
