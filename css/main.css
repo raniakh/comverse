@@ -101,6 +101,9 @@
     -webkit-background-size: cover;
     -moz-background-size: cover;
 }
+.section-text{
+  padding-top: 20px;
+}
 .cubes{
     list-style-type: none;
     padding: 0;
