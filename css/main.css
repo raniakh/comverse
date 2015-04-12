@@ -119,6 +119,11 @@
 .cube-item a{
   text-decoration: none;
 }
+.cube-head{
+  padding: 0;
+  height: 260px;
+  margin-top: 0;
+}
 .cube-pink{
   background: #FF69B4;
   opacity: 0.80;
