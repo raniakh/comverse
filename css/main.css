@@ -125,9 +125,11 @@
 }
 .cube-green{
   background: #32CD32;
+  opacity: 0.80;
 }
 .cube-orange{
   background: #FF8C00;
+  opacity: 0.80;
 }
 .more-btn{
   background: #3498db;
