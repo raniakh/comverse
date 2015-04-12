@@ -103,7 +103,8 @@
     list-style-type: none;
     padding: 0;
     margin-top: 100px;
-    padding-bottom: 20px
+    padding-bottom: 20px;
+    padding-left: 50px;
 }
 .cube-item{
   border-radius: 8px;
@@ -113,6 +114,7 @@
   width: 280px;
   cursor: pointer;
   padding: 10px 15px;
+  text-decoration: none;
 }
 .more-btn{
   background: #3498db;
