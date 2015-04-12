@@ -119,14 +119,14 @@
 .cube-item a{
   text-decoration: none;
 }
-.cube-item:hover{
-  opacity: 1;
-}
 .cube-head{
   padding: 0;
   height: 100px;
   width:260px;
   margin-top: 0;
+}
+.cube-item:hover{
+  opacity: 1;
 }
 .cube-pink{
   background: #FF69B4;
