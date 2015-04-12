@@ -119,10 +119,13 @@
 .cube-item a{
   text-decoration: none;
 }
+.cube-item:hover{
+  opacity: 1;
+}
 .cube-head{
   padding: 0;
   height: 100px;
-  width:260px;
+  width:220px;
   margin-top: 0;
 }
 .cube-pink{
