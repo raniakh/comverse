@@ -111,6 +111,8 @@
   -webkit-border-radius: 8px;
   display: inline-block;
   width: 280px;
+  cursor: pointer;
+  padding: 10px 15px;
 }
 .more-btn{
   background: #3498db;
