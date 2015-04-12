@@ -119,6 +119,9 @@
 .cube-item a{
   text-decoration: none;
 }
+.cube-item:hover{
+  opacity: 1;
+}
 .cube-head{
   padding: 0;
   height: 100px;
