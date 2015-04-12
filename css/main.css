@@ -104,7 +104,7 @@
     padding: 0;
     margin-top: 100px;
     padding-bottom: 20px;
-    padding-left: 100px;
+    padding-left: 180px;
 }
 .cube-item{
   border-radius: 8px;
@@ -125,7 +125,7 @@
 .cube-head{
   padding: 0;
   height: 100px;
-  width:220px;
+  width:180px;
   margin-top: 0;
 }
 .cube-pink{
