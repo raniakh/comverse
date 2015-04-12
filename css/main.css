@@ -103,7 +103,8 @@
 }
 .section-text{
   padding-top: 20px;
-  width: 350px;
+  padding-left: 80px;
+  width: 500px;
 }
 .cubes{
     list-style-type: none;
