@@ -95,7 +95,7 @@
 }
 .section-general{
   padding: 0;
-  
+
 }
 .wrap-section-first{
     padding-top: 75px;
@@ -173,6 +173,9 @@
   background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
+}
+.wrap-section-solutions{
+  background: #1E90FF;
 }
 
 body{
