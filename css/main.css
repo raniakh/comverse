@@ -190,6 +190,10 @@ div.img2{
   height: 30px;
   background: url(../img/solution_icon_biz-analitics.png) no-repeat left;
 }
+div.img3{
+  height: 30px;
+  background: url(..img/solution_icon_optimize-efficnt.png) no-repeat;
+}
 
 body{
     font-size: 15px;
