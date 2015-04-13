@@ -184,11 +184,11 @@
 }
 div.img1{
   height: 40px;
-  background: url(/img/solution_icon_smart-money.png) no-repeat center;
+  background: url(../img/solution_icon_smart-money.png) no-repeat left;
 }
 div.img2{
   height: 40px;
-  background: url(../img/solution_icon_biz-analitics.png) no-repeat center;
+  background: url(../img/solution_icon_biz-analitics.png) no-repeat left;
 }
 
 body{
