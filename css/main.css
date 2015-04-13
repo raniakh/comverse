@@ -175,7 +175,8 @@
   text-decoration: none;
 }
 .wrap-section-solutions{
-  background: #1E90FF;
+  background: #00BFFF;
+  display: block;
 }
 
 body{
