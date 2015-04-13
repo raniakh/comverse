@@ -226,7 +226,7 @@ div.img6{
   height: 60px;
   background: url(../img/solution_icon_diti-cx.png) no-repeat left;
 }
-div.img6{
+div.img6:hover{
   height: 60px;
   background: url(../img/solution_icon_diti-cx_hover.png) no-repeat left;
 }
