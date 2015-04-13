@@ -176,7 +176,7 @@
 }
 .wrap-section-solutions{
   background: #6495ED;
-  display: inline-block;
+  margin: 0;
 }
 .solution-list{
   list-style-type: none;
