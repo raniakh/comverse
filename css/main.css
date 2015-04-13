@@ -254,6 +254,13 @@ span.day{
   text-align: center;
   width: 55px;
 }
+span.month{
+  display: block;
+  background-color: #6495ED;
+  font-size: 20px;
+  font-weight: normal;
+  text-align: center;
+}
 body{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
