@@ -98,6 +98,7 @@
 
 }
 .wrap-section-first{
+    padding-top: 75px;
     background: url(../img/slide-bg-complexity.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
