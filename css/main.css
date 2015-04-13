@@ -257,6 +257,7 @@ span.day{
 span.month{
   display: block;
   background-color: #6495ED;
+  width: 55px;
   font-size: 20px;
   font-weight: normal;
   text-align: center;
