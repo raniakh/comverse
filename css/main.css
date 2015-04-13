@@ -175,10 +175,12 @@
 }
 .wrap-section-solutions{
   background: #6495ED;
-  top: 0;
 }
 .solution-list{
   list-style-type: none;
+}
+.solution-list li figcaption {
+  text-decoration: none;
 }
 
 body{
