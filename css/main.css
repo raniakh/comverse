@@ -173,13 +173,13 @@
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
 }
-.wrap-section-solutions{
+.wrap-section-do{
   background: #6495ED;
 }
-.solution-list{
+.do-list{
   list-style-type: none;
 }
-.solution-list li figcaption {
+.do-list li figcaption {
   text-decoration: none;
 }
 div.img1{
