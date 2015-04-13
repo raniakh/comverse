@@ -245,6 +245,11 @@ div.section-news-events{
 .event-headline{
   text-transform: uppercase;
 }
+span.day{
+  display: block;
+  background-color: #6495ED;
+  border-bottom: dashed;
+}
 body{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
