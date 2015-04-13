@@ -94,8 +94,11 @@
     display: block;
 }
 .section-general{
+  padding: 0;
+  
+}
+.wrap-section-first{
     padding-top: 75px;
-    padding-left: 20px;
     background: url(../img/slide-bg-complexity.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
