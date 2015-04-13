@@ -230,7 +230,7 @@ div.img6:hover{
   height: 60px;
   background: url(../img/solution_icon_diti-cx_hover.png) no-repeat left;
 }
-.section-news-events{
+div.section-news-events{
   background: url(../img/news-and-events-bg.jpg) no-repeat center;
   background-size: cover;
     -webkit-background-size: cover;
