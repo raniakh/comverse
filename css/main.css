@@ -249,7 +249,8 @@ span.day{
   display: block;
   background-color: #6495ED;
   border-bottom: 1px dashed #FFFFFF;
-  font-size: 50px;
+  font-size: 40px;
+  font-weight: normal;
 }
 body{
     font-size: 15px;
