@@ -248,7 +248,7 @@ div.section-news-events{
 span.day{
   display: block;
   background-color: #6495ED;
-  border-bottom: dashed;
+  border-bottom: 1px dashed #FFFFFF;
 }
 body{
     font-size: 15px;
