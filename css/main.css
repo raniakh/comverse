@@ -182,6 +182,12 @@
 .solution-list li figcaption {
   text-decoration: none;
 }
+div.img1{
+  background: url(../img/solution_icon_smart-money.png) no-repeat center;
+}
+div.img2{
+  background: url(../img/solution_icon_biz-analitics.png) no-repeat center;
+}
 
 body{
     font-size: 15px;
