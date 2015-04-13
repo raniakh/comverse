@@ -192,7 +192,19 @@ div.img2{
 }
 div.img3{
   height: 30px;
-  background: url(../img/solution_icon_optimize-efficnt.png) no-repeat;
+  background: url(../img/solution_icon_optimize-efficnt.png) no-repeat left;
+}
+div.img4{
+  height: 30px;
+  background: url(../img/solution_icon_biz-transform.png) no no-repeat left;
+}
+div.img5{
+  height: 30px;
+  background: url(../img/solution_icon_personal.png) no no-repeat left;
+}
+div.im6{
+  height: 30px;
+  background: url(../img/solution_icon_diti-cx.png) no no-repeat left;
 }
 
 body{
