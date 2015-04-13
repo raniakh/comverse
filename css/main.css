@@ -183,9 +183,11 @@
   text-decoration: none;
 }
 div.img1{
-  background: url(../img/solution_icon_smart-money.png) no-repeat center;
+  height: 40px;
+  background: url(/img/solution_icon_smart-money.png) no-repeat center;
 }
 div.img2{
+  height: 40px;
   background: url(../img/solution_icon_biz-analitics.png) no-repeat center;
 }
 
