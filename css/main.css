@@ -179,7 +179,7 @@
 .do-list{
   list-style-type: none;
 }
-.do-list li figcaption {
+.do-list li a figcaption {
   text-decoration: none;
 }
 div.img1{
