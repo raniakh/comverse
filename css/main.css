@@ -178,6 +178,9 @@
   background: #6495ED;
   display: block;
 }
+.solution-list{
+  list-style-type: none;
+}
 
 body{
     font-size: 15px;
