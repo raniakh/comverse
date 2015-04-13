@@ -242,7 +242,9 @@ div.section-news-events{
 .event-list a{
   text-decoration: none;
 }
-
+.event-headline{
+  text-transform: uppercase;
+}
 body{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
