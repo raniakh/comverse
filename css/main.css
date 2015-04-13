@@ -236,6 +236,9 @@ div.section-news-events{
     -webkit-background-size: cover;
     -moz-background-size: cover;
 }
+.event-list{
+  list-style-type: none;
+}
 
 body{
     font-size: 15px;
