@@ -175,6 +175,7 @@
 }
 .wrap-section-solutions{
   background: #6495ED;
+  top: 0;
 }
 .solution-list{
   list-style-type: none;
