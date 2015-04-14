@@ -252,14 +252,22 @@ span.day{
   font-size: 40px;
   font-weight: normal;
   text-align: center;
-  width: 55px;
+/*  width: 55px; */
 }
 span.month{
   display: block;
-  background-color: #6495ED;
-  width: 55px;
+  background-color: #6495ED; 
+/*  width: 55px; */
   font-size: 20px;
   font-weight: normal;
+  text-align: center;
+}
+h3.date-event{
+  width: 65px;
+  margin:0 auto;
+  padding:0;
+  float: left;
+  font-weight: 400;
   text-align: center;
 }
 body{
