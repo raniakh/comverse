@@ -243,6 +243,7 @@ div.section-news-events{
   background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
+    color: #FFFFFF;
 }
 .event-list{
   list-style-type: none;
