@@ -291,7 +291,7 @@ a.all{
 a.all:hover{
   color: #000000;
 }
-a.all-news span:before{
+.all-news > span:before{
   content:"";
   background: url(../img/eventListIconNews.png) no-repeat;
   height: 25px;
