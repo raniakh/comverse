@@ -257,7 +257,7 @@ ul.event-list > li > a > section > article{
 ul.event-list > li > a > section > article:hover{
   opacity: 1;
 }
-ul.event-list li a section article p{
+ul.event-list p{
   color: black;
 }
 span.day{
