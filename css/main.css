@@ -460,6 +460,20 @@ ul.story-list p.job-desc{
 .more-list h4,h3{
   text-transform: uppercase;
 }
+span.another-day{
+  display: block;
+  font-size: 40px;
+  font-weight: normal;
+  width: 55px;
+  text-align: center;
+}
+span.another-month{
+  display: block;
+  font-size: 20px;
+  font-weight: normal;
+  width: 55px;
+  text-align: center;
+}
 body{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
