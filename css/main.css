@@ -353,6 +353,14 @@ ul.story-list p.job-desc{
   height: 100px;
   width: 100px;
 }
+.story-list .face2:before{
+  content: "";
+  background: url(../img/JT-GM-face.png) no-repeat;
+  display: block;
+  float: left;
+  height: 100px;
+  width: 100px;
+}
 .story-list .blck-quote:before{
   content: "";
   background: url(../img/quote-grey.png) no-repeat;
