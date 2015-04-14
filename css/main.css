@@ -295,6 +295,7 @@ a.all:hover{
   content:"";
   background: url(../img/eventListIconNews.png) no-repeat;
   display: block;
+  float: left;
   height: 25px;
   width: 25px;
 }
