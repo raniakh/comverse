@@ -405,7 +405,7 @@ ul.story-list p.job-desc{
   height: 60px;
   width: 95px;
 }
-.story-list li#special{
+.story-list li.special{
   height: 100px;
 }
 .story-list .company{
