@@ -248,11 +248,11 @@ div.section-news-events{
 
 .event-list > li{
   width: 280px;
-  height: 120px;
 }
 ul.event-list > li article{
   background-color: #FFDEFF;
   opacity: 0.5;
+  height: 120px;
 }
 ul.event-list > li > a > section > article:hover{
   opacity: 1;
