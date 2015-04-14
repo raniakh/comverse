@@ -377,7 +377,7 @@ ul.story-list p.job-desc{
   float: right;
   height: 60px;
   width: 95px;
-  top:0;
+  top:-15px;
 }
 body{
     font-size: 15px;
