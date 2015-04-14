@@ -412,11 +412,11 @@ ul.story-list p.job-desc{
 .story-list .company{
   display: inline-block;
   float: left;
-  height: 70px;
-  width: 100px;
 }
 .story-list .first{
   content: url(../img/upc_w108px_X_h95px.jpg) no-repeat;
+  height: 70px;
+  width: 100px;
 }
 .story-list .second{
   content: url(../img/VIDEOCON_w108px_X_h95px.jpg) no-repeat;
