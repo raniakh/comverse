@@ -449,12 +449,11 @@ ul.story-list p.job-desc{
 }
 .last-section{
   background: url(../img/weDoBG.png) repeat;
-  background-color: #000000;
   background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
 }
-.last-section ul.more-list{
+.last-section ul{
   list-style-type: none;
 }
 body{
