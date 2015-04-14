@@ -307,6 +307,22 @@ a.all:hover{
   height: 25px;
   width: 25px;
 }
+.all-events > span:before{
+  content:"";
+  background: url(../img/eventListIconEvents.png) no-repeat;
+  display: block;
+  float: left;
+  height: 25px;
+  width: 25px;
+}
+.all-news > span:hover:before{
+  content: "";
+  background: url(../img/eventListIconEvents_hover.png) no-repeat;
+  display: block;
+  float: left;
+  height: 25px;
+  width: 25px;
+}
 body{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
