@@ -476,8 +476,8 @@ span.another-month{
 }
 li.special-post{
   border: 1px solid black;
-  height: 80px;
-  width: 200px;
+  height: 100px;
+  width: 500px;
 }
 body{
     font-size: 15px;
