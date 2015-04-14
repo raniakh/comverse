@@ -440,12 +440,12 @@ ul.story-list p.job-desc{
 .story-list .seventh{
   content: url(../img/Jersey_Telecom_w100px_X_h42px.jpg) no-repeat;
   height: 60px;
-  margin: 0 60px;
+  margin: 3px 60px;
 }
 .story-list .eight{
   content: url(../img/cable_wireless_w100px_X_h42px2.jpg) no-repeat;
   height: 60px;
-  margin: 0 60px;
+  margin: 3px 60px;
 }
 body{
     font-size: 15px;
