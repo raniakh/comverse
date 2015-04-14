@@ -437,6 +437,14 @@ ul.story-list p.job-desc{
   content: url(../img/Kyivstarw_w108px_X_h95.jpg) no-repeat;
   margin: 0 30px;
 }
+.story-list .seventh{
+  content: url(../img/Jersey_Telecom_w100px_X_h42px.jpg) no-repeat;
+  margin: 0 60px;
+}
+.story-list .eight{
+  content: url(../img/cable_wireless_w100px_X_h42px2.jpg) no-repeat;
+  margin: 0 60px;
+}
 body{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
