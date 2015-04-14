@@ -329,7 +329,7 @@ a.all:hover{
 ul.story-list{
   list-style-type: none;
 }
-ul.story-list li h3{
+ul.story-list li{
   background: #FFFFFF;
   height: 95px;
 }
