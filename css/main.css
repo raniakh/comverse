@@ -336,9 +336,12 @@ ul.story-list li{
 ul.story-list li h3{
   height: 90px;
 }
-.story-list a{
+p.name{
   text-decoration: none;
   color: #00BFFF;
+  font-weight: normal;
+}
+p.job-title{
   font-weight: normal;
 }
 .story-list .face:before{
