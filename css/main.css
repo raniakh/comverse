@@ -373,9 +373,9 @@ ul.story-list p.job-desc{
 .story-list .company-icon:after{
   content: "";
   background: url(../img/3mob_w108px_X_h95px.jpg) no-repeat;
-  display: block;
+  display: inline-block;
   float: right;
-  height: 50px;
+  height: 60px;
   width: 95px;
 }
 body{
