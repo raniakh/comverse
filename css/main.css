@@ -245,6 +245,10 @@ div.section-news-events{
 .event-headline{
   text-transform: uppercase;
 }
+.event-list > li{
+  display: inline-block;
+  width: 280;
+}
 span.day{
   display: block;
   background-color: #6495ED;
