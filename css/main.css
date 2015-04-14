@@ -254,12 +254,12 @@ ul.event-list > li article{
   opacity: 0.5;
   height: 95px;
 }
-ul.event-list > li > a > section > article:hover{
+ul.event-list > li article:hover{
   opacity: 1;
 }
 ul.event-list p{
   color: black;
-  font-weight: lighter;
+  font-weight: normal;
 }
 span.day{
   display: block;
@@ -284,6 +284,12 @@ h3.date-event{
   padding:0;
   float: left; 
   text-align: center;
+}
+a.all{
+  color: #FFFFFF;
+}
+a.all:hover{
+  color: #000000;
 }
 body{
     font-size: 15px;
