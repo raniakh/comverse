@@ -336,6 +336,11 @@ ul.story-list li{
 ul.story-list li h3{
   height: 90px;
 }
+.story-list a{
+  text-decoration: none;
+  color: #00BFFF;
+  font-weight: normal;
+}
 .story-list .face:before{
   content: "";
   background: url(../img/CB-JP-face.png) no-repeat;
