@@ -336,12 +336,12 @@ ul.story-list li{
 ul.story-list li h3{
   height: 90px;
 }
-p.name{
+ul.story-list p.name{
   text-decoration: none;
   color: #00BFFF;
   font-weight: normal;
 }
-p.job-title{
+ul.story-list p.job-title{
   font-weight: lighter;
   color: #A9A9A9;
 }
