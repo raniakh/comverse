@@ -456,6 +456,9 @@ ul.story-list p.job-desc{
 .last-section ul{
   list-style-type: none;
 }
+.last-section ul a{
+  text-decoration: none;
+}
 body{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
