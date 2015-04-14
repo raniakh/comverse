@@ -248,15 +248,15 @@ div.section-news-events{
 .event-list > li{
   width: 280;
 }
-.event-list > li > a > section  article{
+.event-list > li > a > section > article{
   background-color: #F5F5F5;
   opacity: 0.8;
   height: 80px;
 }
-.event-list > li > a > section  article:hover{
+.event-list > li > a > section > article:hover{
   opacity: 1;
 }
-.event-list > li > a > section article p{
+.event-list > li > a > section > article > p{
   color: black;
 }
 span.day{
