@@ -448,7 +448,7 @@ ul.story-list p.job-desc{
   margin: 5px 60px;
 }
 .last-section{
-  background: url(../img/weDoBG.png) repeat;
+  background: url(../img/weDoBG.png);
   background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -456,7 +456,7 @@ ul.story-list p.job-desc{
 .last-section ul{
   list-style-type: none;
 }
-.last-section ul a{
+.last-section a{
   text-decoration: none;
 }
 body{
