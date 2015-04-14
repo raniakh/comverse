@@ -291,6 +291,10 @@ a.all{
 a.all:hover{
   color: #000000;
 }
+.all-news > span:before{
+  content:"";
+  background: url(../img/eventListIconNews.png) no-repeat;
+}
 body{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
