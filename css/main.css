@@ -245,18 +245,19 @@ div.section-news-events{
 .event-headline{
   text-transform: uppercase;
 }
+/*
 .event-list > li{
   width: 280;
-}
-.event-list > li > a > section > article{
+}*/
+ul.event-list > li > a > section > article{
   background-color: #F5F5F5;
   opacity: 0.8;
   height: 80px;
 }
-.event-list > li > a > section > article:hover{
+ul.event-list > li > a > section > article:hover{
   opacity: 1;
 }
-.event-list li a section article p{
+ul.event-list li a section article p{
   color: black;
 }
 span.day{
