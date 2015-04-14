@@ -334,8 +334,8 @@ ul.story-list{
   background: url(../img/CB-JP-face.png) no-repeat;
   display: block;
   float: left;
-  height: 90px;
-  width: 90px;
+  height: 100px;
+  width: 100px;
 }
 body{
     font-size: 15px;
