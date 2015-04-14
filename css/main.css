@@ -331,7 +331,7 @@ ul.story-list{
 }
 .story-list .face:before{
   content: "";
-  background: url(..img/CB-JP-face.png) no-repeat;
+  background: url(../img/CB-JP-face.png) no-repeat;
   display: block;
   float: left;
   height: 40px;
