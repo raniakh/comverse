@@ -475,6 +475,7 @@ span.another-month{
   text-align: center;
 }
 li.special-post{
+  border: 1px solid black;
   height: 80px;
   width: 200px;
 }
