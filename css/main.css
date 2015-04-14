@@ -370,9 +370,18 @@ ul.story-list p.job-desc{
   height: 20px;
   width: 28px;
 }
-.story-list .company-icon:after{
+.story-list .company-icon1:after{
   content: "";
   background: url(../img/3mob_w108px_X_h95px.jpg) no-repeat;
+  display: block;
+  position: relative;
+  float: right;
+  height: 60px;
+  width: 95px;
+}
+.story-list .company-icon2:after{
+  content: "";
+  background: url(../img/multilinks.jpg) no-repeat;
   display: block;
   position: relative;
   float: right;
