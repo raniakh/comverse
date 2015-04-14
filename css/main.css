@@ -246,7 +246,6 @@ div.section-news-events{
   text-transform: uppercase;
 }
 .event-list > li{
-  display: inline-block;
   width: 280;
 }
 span.day{
