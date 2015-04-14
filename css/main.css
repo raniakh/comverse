@@ -467,8 +467,9 @@ ul.story-list p.job-desc{
 .last-section a{
   text-decoration: none;
 }
-.more-list h4{
+.more-list h4, .more-list p{
   text-transform: uppercase;
+  color: #FFFFFF;
 }
 .more-list h3{
   text-transform: uppercase;
