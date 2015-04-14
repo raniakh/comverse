@@ -329,6 +329,10 @@ a.all:hover{
 ul.story-list{
   list-style-type: none;
 }
+ul.story-list li h3{
+  background: #FFFFFF;
+  height: 95px;
+}
 .story-list .face:before{
   content: "";
   background: url(../img/CB-JP-face.png) no-repeat;
