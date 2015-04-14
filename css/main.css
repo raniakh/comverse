@@ -474,7 +474,10 @@ span.another-month{
   width: 55px;
   text-align: center;
 }
-
+.form-field{
+  border:1px solid black;
+  border-radius: 3px;
+}
 body{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
