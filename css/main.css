@@ -251,16 +251,12 @@ span.day{
   border-bottom: 1px dashed #FFFFFF;
   font-size: 40px;
   font-weight: normal;
-/*  text-align: center; */
-/*  width: 55px; */
 }
 span.month{
   display: block;
   background-color: #6495ED; 
-/*  width: 55px; */
   font-size: 20px;
   font-weight: normal;
-/*  text-align: center; */
 }
 h3.date-event{
   width: 55px;
