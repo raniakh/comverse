@@ -336,7 +336,7 @@ ul.story-list li{
 ul.story-list li h3{
   height: 90px;
 }
-ul.story-list p.name{
+ul.story-list a{
   text-decoration: none;
   color: #00BFFF;
   font-weight: normal;
