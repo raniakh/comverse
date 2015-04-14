@@ -266,7 +266,7 @@ h3.date-event{
   width: 65px;
   margin:0 auto;
   padding:0;
-  float: left;
+ /* float: left; */
   font-weight: 400;
   text-align: center;
 }
