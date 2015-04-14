@@ -335,6 +335,7 @@ a.all:hover{
 }
 .wrap-sucess-story{
   background: #F5F5F5;
+  color: #000000;
 }
 ul.story-list{
   list-style-type: none;
@@ -498,8 +499,7 @@ span.another-month{
 body{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
-    color: white;
-}
+  }
 
 /* ==========================================================================
    Base styles: opinionated defaults
