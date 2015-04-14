@@ -471,6 +471,9 @@ ul.story-list p.job-desc{
 .more-list h4, .more-list h3{
   text-transform: uppercase;
 }
+.more-list ul{
+  color: #FFFFFF;
+}
 span.another-day{
   display: block;
   font-size: 40px;
