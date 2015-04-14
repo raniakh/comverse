@@ -345,7 +345,7 @@ ul.story-list a{
 ul.story-list p.job-desc{
   font-weight: lighter;
 }
-.story-list .face:before{
+.story-list .face1:before{
   content: "";
   background: url(../img/CB-JP-face.png) no-repeat;
   display: block;
