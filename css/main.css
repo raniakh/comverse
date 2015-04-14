@@ -293,7 +293,8 @@ a.all:hover{
 }
 .all-news > span:before{
   content:"";
-  background: url(../img/solution_icon_biz-analitics.png) no-repeat;
+  background: url(../img/eventListIconNews.png) no-repeat;
+  display: block;
   height: 25px;
   width: 25px;
 }
