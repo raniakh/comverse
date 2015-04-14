@@ -333,7 +333,7 @@ ul.story-list li{
   background: #FFFFFF;
   height: 120px;
 }
-ul.story-list li > h3{
+ul.story-list li h3{
   height: 120px;
 }
 .story-list .face:before{
