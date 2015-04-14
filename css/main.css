@@ -457,6 +457,9 @@ ul.story-list p.job-desc{
 .last-section a{
   text-decoration: none;
 }
+.more-list h4,h3{
+  text-transform: uppercase;
+}
 body{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
