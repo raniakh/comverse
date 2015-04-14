@@ -474,6 +474,11 @@ span.another-month{
   width: 55px;
   text-align: center;
 }
+li.special-post{
+  height: 80px;
+  width: 80px;
+  color: #FFFFFF;
+}
 body{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
