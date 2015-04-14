@@ -370,6 +370,14 @@ ul.story-list p.job-desc{
   height: 20px;
   width: 28px;
 }
+.story-list .blck-quote:hover:before{
+  content: "";
+  background: url(../img/quote-blue.png) no-repeat;
+  display: block;
+  float: left;
+  height: 20px;
+  width: 28px;
+}
 .story-list .company-icon1:after{
   content: "";
   background: url(../img/3mob_w108px_X_h95px.jpg) no-repeat;
