@@ -329,6 +329,14 @@ a.all:hover{
 ul.story-list{
   list-style-type: none;
 }
+span.face:before{
+  content: "";
+  background: url(..img/CB-JP-face.png) no-repeat;
+  display: block;
+  float: left;
+  height: 40px;
+  width: 40px;
+}
 body{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
