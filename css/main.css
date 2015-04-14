@@ -249,7 +249,7 @@ div.section-news-events{
 .event-list > li{
   width: 280;
 }*/
-ul.event-list > li > a > section > article{
+ul.event-list article{
   background-color: #F5F5F5;
   opacity: 0.8;
   height: 80px;
