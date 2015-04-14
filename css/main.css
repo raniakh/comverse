@@ -476,8 +476,7 @@ span.another-month{
 }
 li.special-post{
   height: 80px;
-  width: 80px;
-  color: #FFFFFF;
+  width: 100px;
 }
 body{
     font-size: 15px;
