@@ -459,7 +459,7 @@ ul.story-list p.job-desc{
   margin: 5px 60px;
 }
 .last-section{
-  background: dotted black;
+  background: black dotted;
   color: #FFFFFF;
 }
 .last-section ul{
