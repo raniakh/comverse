@@ -407,12 +407,13 @@ ul.story-list p.job-desc{
 }
 .story-list li.special{
   margin-top: 10px;
+  height: 100px;
 }
 .story-list .company{
   display: inline-block;
   float: left;
-  height: 60px;
-  width: 95px;
+  height: 70px;
+  width: 100px;
 }
 .story-list .first{
   content: url(../img/upc_w108px_X_h95px.jpg) no-repeat;
