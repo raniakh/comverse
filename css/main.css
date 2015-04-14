@@ -123,6 +123,7 @@
 }
 .cube-item a{
   text-decoration: none;
+  color: #FFFFFF;
 }
 .cube-item:hover{
   opacity: 1;
@@ -133,6 +134,7 @@
   width:180px;
   margin-top: 0;
   color: #FFFFFF;
+  font-weight: normal;
 }
 .cube-pink{
   background: #FF69B4;
