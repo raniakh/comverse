@@ -259,6 +259,7 @@ ul.event-list > li > a > section > article:hover{
 }
 ul.event-list p{
   color: black;
+  font-weight: lighter;
 }
 span.day{
   display: block;
