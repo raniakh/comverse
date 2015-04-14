@@ -329,7 +329,7 @@ a.all:hover{
 ul.story-list{
   list-style-type: none;
 }
-span.face:before{
+.story list span.face:before{
   content: "";
   background: url(..img/CB-JP-face.png) no-repeat;
   display: block;
