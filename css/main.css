@@ -304,24 +304,24 @@ a.all:hover{
   background: url(../img/eventListIconNews_hover.png) no-repeat;
   display: block;
   float: left;
-  height: 25px;
-  width: 25px;
+  height: 20px;
+  width: 20px;
 }
 .all-events > span:before{
   content:"";
   background: url(../img/eventListIconEvents.png) no-repeat;
   display: block;
   float: left;
-  height: 25px;
-  width: 25px;
+  height: 20px;
+  width: 20px;
 }
 .all-news > span:hover:before{
   content: "";
   background: url(../img/eventListIconEvents_hover.png) no-repeat;
   display: block;
   float: left;
-  height: 25px;
-  width: 25px;
+  height: 20px;
+  width: 20px;
 }
 body{
     font-size: 15px;
