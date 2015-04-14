@@ -342,7 +342,8 @@ p.name{
   font-weight: normal;
 }
 p.job-title{
-  font-weight: normal;
+  font-weight: lighter;
+  color: #A9A9A9;
 }
 .story-list .face:before{
   content: "";
