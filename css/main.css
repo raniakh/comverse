@@ -331,7 +331,7 @@ ul.story-list{
 }
 ul.story-list li{
   background: #FFFFFF;
-  height: 95px;
+  height: 120px;
 }
 .story-list .face:before{
   content: "";
