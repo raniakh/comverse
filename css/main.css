@@ -102,6 +102,7 @@
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
+    color: #FFFFFF;
 }
 .cubes{
     list-style-type: none;
