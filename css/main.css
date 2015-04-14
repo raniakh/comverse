@@ -256,6 +256,9 @@ div.section-news-events{
 .event-list > li > a > section  article:hover{
   opacity: 1;
 }
+.event-list > li > a > section article p{
+  color: black;
+}
 span.day{
   display: block;
   background-color: #6495ED;
