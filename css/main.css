@@ -279,7 +279,7 @@ span.month{
 }
 h3.date-event{
   width: 55px;
-  margin:0 auto;
+  margin:5px;
   padding:0;
   float: left; 
   text-align: center;
