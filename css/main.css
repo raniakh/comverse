@@ -252,7 +252,7 @@ div.section-news-events{
 }
 ul.event-list > li article{
   background-color: #FFDEFF;
-  opacity: 0.3;
+  opacity: 0.5;
 }
 ul.event-list > li > a > section > article:hover{
   opacity: 1;
