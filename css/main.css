@@ -480,10 +480,10 @@ span.another-month{
   margin: 0;
   height: 30px;
 }
-ul.more-list .search .derive{
+.signup{
     float: left;
-    padding-top: 0px;
-
+    display: inline-block;
+    position: relative;
 }
 body{
     font-size: 15px;
