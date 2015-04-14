@@ -179,7 +179,10 @@
 }
 .wrap-section-do{
   background: #6495ED;
-  color: white;
+  color: #FFFFFF;
+}
+.wrap-section-do figcaption{
+  color: #FFFFFF; 
 }
 .do-list{
   list-style-type: none;
