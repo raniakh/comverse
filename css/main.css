@@ -253,6 +253,7 @@ div.section-news-events{
 }
 .event-headline{
   text-transform: uppercase;
+  color: #FFFFFF;
 }
 
 .event-list > li{
