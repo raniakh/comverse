@@ -53,6 +53,18 @@
 .nav a:hover{
     color:#9370DB;
 }
+.subnav {
+   border: 1px solid rgba(0, 0, 0, 0.2);
+   border-top: none;
+   background: #D3D3D3;
+   display: none;
+   position: absolute;
+   left: 0;
+   top: 30px;
+   width: 100%;
+   overflow: hidden;
+   display: inline;
+}
 .side-link{
     float: right;
     font-size: 15px;
