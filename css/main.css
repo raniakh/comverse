@@ -37,13 +37,18 @@
     padding-top: 45px;
     display: inline-block;
 }
-.nav li{
+.nav > li{
     display: inline;
     padding: 0 10px;
+    float: left;
+    list-style: none;
 }
-.nav a{
+.nav >li > a{
     color: #808080;
     text-decoration: none;
+    display:block;
+    outline:0;
+    text-transform: uppercase;
 }
 .nav a:hover{
     color:#9370DB;
