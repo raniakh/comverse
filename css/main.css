@@ -443,7 +443,6 @@ b , strong {
 }
 .story-list > li > p{
   height: 150px;
-  border-bottom: 1px solid #DCDCDC;
 }
 .story-list a{
   text-decoration: none;
