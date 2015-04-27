@@ -253,7 +253,7 @@ div.img1{
 }
 div.img1:hover{
   height: 60px;
-  width: 60px;
+  width: 70px;
   background: url(../img/solution_icon_smart-money_hover.png) no-repeat left;
 }
 div.img2{
