@@ -241,7 +241,7 @@ b , strong {
 .do-list{
   list-style-type: none;
 }
-.do-list > li{
+.do-list li{
   display: inline-block;
   width: 150px;
   height: 150px;
