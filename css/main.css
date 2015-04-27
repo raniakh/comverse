@@ -30,6 +30,7 @@
     position: relative;
     padding-top: -10px;
     display: inline-block;
+    margin: 0 auto;
 }
 .nav{
     list-style-type: none;
