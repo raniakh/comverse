@@ -425,8 +425,9 @@ ul.story-list li{
   background: #FFFFFF;
   height: 170px;
   width: 550px;
+  display: inline-block;
 }
-ul.story-list li h3{
+ul.story-list li p{
   height: 90px;
   font-weight: lighter;
 }
