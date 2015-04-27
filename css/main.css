@@ -442,7 +442,8 @@ b , strong {
   font-weight: lighter;
 }
 .story-list > li > p{
-  height: 150px
+  height: 150px;
+  border-bottom: 1px solid #DCDCDC;
 }
 .story-list a{
   text-decoration: none;
