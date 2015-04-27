@@ -170,7 +170,7 @@ b , strong {
   -moz-border-radius: 8px;
   -webkit-border-radius: 8px;
   display: inline-block;
-  width: 280px;
+  width: 250px;
   cursor: pointer;
   padding: 10px 15px;
   margin-right: 20px;
@@ -186,7 +186,7 @@ b , strong {
 .cube-head{
   padding: 0;
   height: 100px;
-  width:180px;
+  width:200px;
   margin-top: 0;
   color: #FFFFFF;
   font-weight: normal;
