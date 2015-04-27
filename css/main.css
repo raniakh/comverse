@@ -179,9 +179,7 @@ b , strong {
   text-decoration: none;
   color: #FFFFFF;
 }
-.cube-item a:nth-child(2){
-  float: left;
-}
+
 .cube-item:hover{
   opacity: 1;
 }
