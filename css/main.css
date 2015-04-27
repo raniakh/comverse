@@ -241,15 +241,19 @@ b , strong {
 .do-list{
   list-style-type: none;
 }
-.do-list li{
+.do-list > li{
   display: inline-block;
   width: 150px;
   height: 150px;
   margin: 0 auto;
   text-align: center;
 }
-.do-list li a {
+.do-list > li a {
   text-decoration: none;
+}
+.do-list > li > a > figure {
+  margin: 0 auto;
+  text-align: center;
 }
 div.img1{
   background: url(../img/solution_icon_smart-money.png) no-repeat left;
@@ -258,19 +262,15 @@ div.img1:hover{
   background: url(../img/solution_icon_smart-money_hover.png) no-repeat left;
 }
 div.img2{
-  height: 60px;
   background: url(../img/solution_icon_biz-analitics.png) no-repeat left;
 }
 div.img2:hover{
-  height: 60px;
   background: url(../img/solution_icon_biz-analitics_hover.png) no-repeat left;
 }
 div.img3{
-  height: 60px;
   background: url(../img/solution_icon_optimize-efficnt.png) no-repeat left;
 }
 div.img3:hover{
-  height: 60px;
   background: url(../img/solution_icon_optimize-efficnt_hover.png) no-repeat left;
 }
 div.img4{
@@ -278,23 +278,18 @@ div.img4{
   background: url(../img/solution_icon_biz-transform.png) no-repeat left;
 }
 div.img4:hover{
-  height: 60px;
   background: url(../img/solution_icon_biz-transform_hover.png) no-repeat left;
 }
 div.img5{
-  height: 60px;
   background: url(../img/solution_icon_personal.png) no-repeat left;
 }
 div.img5:hover{
-  height: 60px;
   background: url(../img/solution_icon_personal_hover.png) no-repeat left;
 }
 div.img6{
-  height: 60px;
   background: url(../img/solution_icon_diti-cx.png) no-repeat left;
 }
 div.img6:hover{
-  height: 60px;
   background: url(../img/solution_icon_diti-cx_hover.png) no-repeat left;
 }
 div.section-news-events{
