@@ -70,6 +70,7 @@
    width: 100%
    top: 70px;
    overflow: hidden;
+   vertical-align: center;
 }
 .subnav a{
   text-decoration: none;
