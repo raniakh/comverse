@@ -317,7 +317,7 @@ b , strong {
     text-align: center;
 }
 .section-news-events > h1{
-  margin: 20px 0;
+  padding: 20px 0;
 }
 .event-list{
   list-style-type: none;
