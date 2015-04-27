@@ -60,7 +60,7 @@
    border: 1px solid rgba(0, 0, 0, 0.2);
    border-top: none;
    background: #D3D3D3;
-   display: none;
+   display: inline;
    position: absolute;
    left: 0;
    top: 30px;
