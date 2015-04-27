@@ -330,6 +330,7 @@ b , strong {
 .event-list > li{
   width: 280px;
   display: inline-block;
+  padding: 0 20px 0 20px;
 }
 ul.event-list > li article{
   background-color: #FFDEFF;
@@ -367,11 +368,14 @@ h3.date-event{
   float: left; 
   text-align: center;
 }
-a.all{
+.all{
   color: #FFFFFF;
 }
-a.all:hover{
+.all:hover{
   color: #000000;
+}
+.all + span{
+  float: left;
 }
 .all-news > span:before{
   content:"";
