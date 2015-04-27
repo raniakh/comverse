@@ -336,19 +336,19 @@ b , strong {
   display: inline-block;
   padding: 0 20px 0 20px;
 }
-ul.event-list > li article{
+.event-list > li article{
   background-color: #FFDEFF;
   opacity: 0.6;
   height: 95px;
 }
-ul.event-list > li article:hover{
+.event-list > li article:hover{
   opacity: 1;
 }
-ul.event-list p{
+.event-list p{
   color: black;
   font-weight: normal;
 }
-span.day{
+.day{
   display: block;
   background-color: #6495ED;
   border-bottom: 1px dashed #FFFFFF;
@@ -357,7 +357,7 @@ span.day{
   width: 55px;
   text-align: center;
 }
-span.month{
+.month{
   display: block;
   background-color: #6495ED; 
   font-size: 20px;
@@ -365,7 +365,7 @@ span.month{
   width: 55px;
   text-align: center;
 }
-h3.date-event{
+.date-event{
   width: 55px;
   margin:5px;
   padding:0;
