@@ -173,6 +173,7 @@ b , strong {
   cursor: pointer;
   padding: 10px 15px;
   margin-right: 20px;
+  margin: 0 auto;
 }
 .cube-item a{
   text-decoration: none;
