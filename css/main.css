@@ -316,6 +316,9 @@ b , strong {
     color: #FFFFFF;
     text-align: center;
 }
+.section-news-events > h1{
+  margin-top: 10px;
+}
 .event-list{
   list-style-type: none;
   padding: 0 0 40px 0;
@@ -326,7 +329,6 @@ b , strong {
 .event-headline{
   text-transform: uppercase;
   color: #FFFFFF;
-  margin-top: 10px
 }
 
 .event-list > li{
