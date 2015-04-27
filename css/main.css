@@ -318,7 +318,7 @@ b , strong {
 }
 .event-list{
   list-style-type: none;
-  padding: 0 0 30px 0;
+  padding: 0 0 40px 0;
 }
 .event-list a{
   text-decoration: none;
@@ -326,6 +326,7 @@ b , strong {
 .event-headline{
   text-transform: uppercase;
   color: #FFFFFF;
+  margin-top: 10px
 }
 
 .event-list > li{
