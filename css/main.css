@@ -241,6 +241,9 @@ b , strong {
 .do-list{
   list-style-type: none;
 }
+.do-list li{
+  display: inline-block;
+}
 .do-list li a {
   text-decoration: none;
 }
