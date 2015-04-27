@@ -240,7 +240,6 @@ b , strong {
 }
 .do-list{
   list-style-type: none;
-  width: 100%
 }
 .do-list li{
   display: inline-block;
@@ -254,6 +253,7 @@ div.img1{
 }
 div.img1:hover{
   height: 60px;
+  width: 60px;
   background: url(../img/solution_icon_smart-money_hover.png) no-repeat left;
 }
 div.img2{
