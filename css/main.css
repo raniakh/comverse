@@ -247,6 +247,7 @@ b , strong {
   height: 150px;
   margin: 0 auto;
   text-align: center;
+  vertical-align: middle;
 }
 .do-list > li > a {
   text-decoration: none;
