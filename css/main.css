@@ -180,7 +180,7 @@ b , strong {
   color: #FFFFFF;
 }
 .cube-item a:nth-child(2){
-  float: left;
+  text-align: left;
 }
 .cube-item:hover{
   opacity: 1;
