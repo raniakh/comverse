@@ -416,7 +416,12 @@ b , strong {
 .wrap-sucess-story{
   background: #F5F5F5;
   color: #000000;
+  display: block;
+}
+.wrap-sucess-story .section-general > h1{
   text-align: center;
+  margin: 0 auto;
+  padding: 20px 0;
 }
 ul.story-list{
   list-style-type: none;
