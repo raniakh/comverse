@@ -248,12 +248,15 @@ b , strong {
   margin: 0 auto;
   text-align: center;
 }
-.do-list > li a {
+.do-list > li > a {
   text-decoration: none;
 }
 .do-list > li > a > figure {
   margin: 0 auto;
   text-align: center;
+}
+.do-list > li > a > figure > figcaption{
+  padding-top: 10px;
 }
 div.img1{
   background: url(../img/solution_icon_smart-money.png) no-repeat left;
