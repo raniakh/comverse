@@ -374,9 +374,6 @@ h3.date-event{
 .all:hover{
   color: #000000;
 }
-.all + span{
-  float: left;
-}
 .all-news > span:before{
   content:"";
   background: url(../img/eventListIconNews.png) no-repeat;
@@ -387,27 +384,27 @@ h3.date-event{
 }
 .all-news > span:hover:before{
   content: "";
-  background: url(../img/eventListIconNews_hover.png) no-repeat;
+  background: url(../img/eventListIconNews_hover.png) no-repeat; 
   display: block;
   float: left;
-  height: 20px;
-  width: 20px;
+  height: 25px;
+  width: 25px;
 }
 .all-events > span:before{
   content:"";
   background: url(../img/eventListIconEvents.png) no-repeat;
   display: block;
   float: left;
-  height: 20px;
-  width: 20px;
+  height: 25px;
+  width: 25px;
 }
 .all-news > span:hover:before{
   content: "";
   background: url(../img/eventListIconEvents_hover.png) no-repeat;
   display: block;
   float: left;
-  height: 20px;
-  width: 20px;
+  height: 25px;
+  width: 25px;
 }
 .wrap-sucess-story{
   background: #F5F5F5;
