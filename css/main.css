@@ -50,6 +50,9 @@
     outline:0;
     text-transform: uppercase;
 }
+.nav > li:hover > a{
+  background-color: #D3D3D3;
+}
 .nav a:hover{
     color:#9370DB;
 }
