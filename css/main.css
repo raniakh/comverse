@@ -318,6 +318,7 @@ b , strong {
 }
 .event-list{
   list-style-type: none;
+  padding: 0 0 30px 0;
 }
 .event-list a{
   text-decoration: none;
