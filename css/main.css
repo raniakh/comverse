@@ -67,12 +67,12 @@
    position: absolute;
    left: 0;
    top: 70px;
-   color: #808080;
    overflow: hidden;
 }
 .subnav a{
   text-decoration: none;
   display: block;
+  color: #808080;
 }
 .subnav-left {
     list-style: none;
