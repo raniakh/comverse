@@ -374,6 +374,9 @@ h3.date-event{
 .all:hover{
   color: #000000;
 }
+.all >span{
+  float: left;
+}
 .all-news > span:before{
   content:"";
   background: url(../img/eventListIconNews.png) no-repeat;
