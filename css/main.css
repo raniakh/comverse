@@ -316,7 +316,7 @@ b , strong {
     color: #FFFFFF;
     text-align: center;
 }
-.section-news-events > h1{
+.section-news-events h1{
   padding: 20px 0;
 }
 .event-list{
