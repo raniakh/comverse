@@ -16,8 +16,9 @@
     z-index: 1000;
     left: 0;
     right: 0;
-    margin: 0 auto; 
     padding: 0;
+    margin-left: auto;
+    margin-right: auto;
 }
 .comverse-logo{
     padding: 10px 25px;
