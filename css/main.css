@@ -329,6 +329,7 @@ b , strong {
 
 .event-list > li{
   width: 280px;
+  display: inline-block;
 }
 ul.event-list > li article{
   background-color: #FFDEFF;
