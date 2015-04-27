@@ -142,7 +142,6 @@
 }
 .section-general{
     padding:0;
-    display: block;
     margin: 0 auto;
 }
 h1 {
@@ -165,6 +164,8 @@ b , strong {
     margin-top: 100px;
     padding-bottom: 20px;
     padding-left: 180px;
+    display: block;
+    margin: 0 auto;
 }
 .cube-item{
   border-radius: 8px;
@@ -174,7 +175,6 @@ b , strong {
   width: 220px;
   cursor: pointer;
   padding: 10px 15px;
-  margin-right: 30px;
 }
 .cube-item a{
   text-decoration: none;
