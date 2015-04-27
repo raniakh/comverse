@@ -234,6 +234,7 @@ b , strong {
 .wrap-section-do{
   background: #6495ED;
   color: #FFFFFF;
+  text-align: center;
 }
 .wrap-section-do figcaption{
   color: #FFFFFF; 
