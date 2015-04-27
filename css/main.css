@@ -254,6 +254,7 @@ b , strong {
 }
 .do-list > li > a > figure {
   margin: 0 auto;
+  height: 60px;
   text-align: center;
 }
 .do-list > li > a > figure > figcaption{
