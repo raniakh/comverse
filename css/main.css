@@ -157,6 +157,7 @@ b , strong {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     color: #FFFFFF;
+    margin: 0 auto;
 }
 .cubes{
     list-style-type: none;
