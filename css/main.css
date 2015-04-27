@@ -423,14 +423,17 @@ b , strong {
   margin: 0 auto;
   padding: 20px 0;
 }
-ul.story-list{
+.story-list{
   list-style-type: none;
+  padding: 0;
 }
-ul.story-list li{
+.story-list > li{
   background: #FFFFFF;
-  height: 200px;
   width: 300px;
   display: inline-block;
+  float: left;
+  padding: 3px;
+  margin: 5px;
 }
 ul.story-list li p{
   height: 90px;
