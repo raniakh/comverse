@@ -234,13 +234,13 @@ b , strong {
 .wrap-section-do{
   background: #6495ED;
   color: #FFFFFF;
-  width: 100%;
 }
 .wrap-section-do figcaption{
   color: #FFFFFF; 
 }
 .do-list{
   list-style-type: none;
+  width: 100%
 }
 .do-list li{
   display: inline-block;
