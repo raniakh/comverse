@@ -142,6 +142,7 @@
 }
 .section-general{
     padding:0;
+    display: block;
     margin: 0 auto;
 }
 h1 {
@@ -157,7 +158,6 @@ b , strong {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     color: #FFFFFF;
-    margin: 0 auto;
 }
 .cubes{
     list-style-type: none;
