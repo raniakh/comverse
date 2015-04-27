@@ -429,14 +429,16 @@ b , strong {
 }
 .story-list > li{
   background: #FFFFFF;
+  border-radius: 3px;
   width: 300px;
   display: inline-block;
   float: left;
   padding: 3px;
   margin: 5px;
 }
-ul.story-list li p{
-  height: 90px;
+.story-list li blockquote{
+  padding: 5px;
+  margin: 0 auto;
   font-weight: lighter;
 }
 ul.story-list a{
