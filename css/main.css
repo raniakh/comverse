@@ -246,20 +246,20 @@ b , strong {
 }
 .do-list li{
   display: inline-block;
-/*  width: 150px;
+  width: 150px;
   height: 150px;
   margin: 0 auto;
   text-align: center;
-  vertical-align: middle;*/
+  vertical-align: middle;
 }
 .do-list > li > a {
   text-decoration: none;
-}
+}/*
 .do-list > li > a > figure {
   margin: 0 auto;
   height: 60px;
   text-align: center;
-}
+}*/
 div.img1{
   background: url(../img/solution_icon_smart-money.png) no-repeat left;
 }
