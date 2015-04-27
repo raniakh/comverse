@@ -144,9 +144,7 @@
     padding:0;
     margin: 0 auto;
 }
-b , strong{
-  font-weight: 1000;
-}
+
 .wrap-section-first{
     padding-top: 75px;
     background: url(../img/slide-bg-complexity.jpg) no-repeat center;
