@@ -170,7 +170,7 @@ b , strong {
   -moz-border-radius: 8px;
   -webkit-border-radius: 8px;
   display: inline-block;
-  width: 220px;
+  width: 280px;
   cursor: pointer;
   padding: 10px 15px;
   margin-right: 20px;
@@ -178,6 +178,9 @@ b , strong {
 .cube-item a{
   text-decoration: none;
   color: #FFFFFF;
+}
+.cube-item a:nth-child(2){
+  float: left;
 }
 .cube-item:hover{
   opacity: 1;
