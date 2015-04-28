@@ -476,7 +476,7 @@ b , strong {
   display: block;
   float: left;
   height: 100px;
-  width: 100px;
+  width: 95px;
 }
 .story-list .face2:before{
   content: "";
