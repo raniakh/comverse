@@ -532,6 +532,11 @@ b , strong {
   height: 60px;
   width: 95px;
 }
+.person-dets{
+  margin-top: 10px;
+  border-top: thin solid #DCDCDC;
+  float: left;
+}
 .story-list .special{
   margin-top: 10px;
   height: 100px;
@@ -566,13 +571,13 @@ b , strong {
 }
 .story-list .seventh{
   content: url(../img/Jersey_Telecom_w100px_X_h42px.jpg) no-repeat;
-  height: 60px;
-  margin: 5px 20px;
+ /* height: 60px;*/
+  margin-right: 20px;
 }
 .story-list .eight{
   content: url(../img/cable_wireless_w100px_X_h42px2.jpg) no-repeat;
-  height: 60px;
-  margin: 5px 20px;
+ /* height: 60px;*/
+  margin-left: 20px;
 }
 .last-section{
   background: black;
