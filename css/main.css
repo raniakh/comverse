@@ -174,20 +174,23 @@ b , strong {
     color: #FFFFFF;
 }
 .slideshow{
-  padding: 5px;
+  padding: 0;
+  list-style-type: none;
+  left: 0;
+  font-size: 0;
 }
-.slideshow > li{
-  /*width: 30px;
-  height: 30px;
-  border-radius: 5px;
-  background: #3498db;*/
+.slideshow li{
+  background-color: #A9A9A9;
   width: 30px;
-        height: 30px;
-        margin-left: 0;
-        margin-right: 5px;
-        padding: 0;
-        border-radius: 3px;
-        color: #565656;
+  height: 30px;
+  float: left;
+  margin-left: 5px;
+  padding: 0;
+  border-radius: 3px;
+  display: inline-block;
+}
+.slideshow li:hover{
+  background-color: #3498db;
 }
 .cubes{
       list-style-type: none;
