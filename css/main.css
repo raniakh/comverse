@@ -739,11 +739,12 @@ footer{
     width: 676px;
     height: 20px;
     float: left;
-    margin-top:58px;
+    margin-top:80px;
     display: inline-block;
 }
 .footer-list{
   list-style-type: none;
+  float: left;
 }
 .footer-list > li{
   display: inline-block;
