@@ -641,21 +641,13 @@ footer{
   font-size: 20px;
   text-transform: uppercase;
 }
-.more-list{
-  list-style-type: none;
+.footer-post{
+  margin: 0 8px;
+  padding: 1px 5px;
+  font-size: 1em;
+  font-weight: 100;
 }
-.more-list > li{
-  display: inline-block;
-  margin: 0 10px;
-}
-.more-list h4, .more-list p{
-  text-transform: uppercase;
-  color: #FFFFFF;
-}
-.more-list h3{
-  text-transform: uppercase;
-  color: #3498db;
-}
+
 .footer-blog-post{
   color: white;
   display: block;
@@ -666,6 +658,7 @@ footer{
 }
 .footer-blog{
   border-bottom: 1px solid #A9A9A9;
+  padding-bottom: 40px;
 }
 .another-day{
   display: block;
