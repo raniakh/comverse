@@ -529,9 +529,10 @@ b , strong {
   height: 60px;
   width: 95px;
 }
-.story-list li.special{
+.story-list .special{
   margin-top: 10px;
   height: 100px;
+  width: 30%;
 }
 .story-list .company{
   display: inline-block;
