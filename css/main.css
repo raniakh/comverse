@@ -656,8 +656,13 @@ footer{
   text-transform: uppercase;
   color: #3498db;
 }
-.more-list a{
-  color: #FFFFFF;
+.footer-blog-post{
+  color: white;
+  display: block;
+  text-decoration: none;
+}
+.footer-blog-post:hover{
+  text-decoration: underline;
 }
 .another-day{
   display: block;
