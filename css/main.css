@@ -539,37 +539,37 @@ b , strong {
 }
 .story-list .first{
   content: url(../img/upc_w108px_X_h95px.jpg) no-repeat;
-  margin: 0 15px;
+  margin: 0 12px;
 }
 .story-list .second{
   content: url(../img/VIDEOCON_w108px_X_h95px.jpg) no-repeat;
-  margin: 0 15px;
+  margin: 0 12px;
 }
 .story-list .third{
   content: url(../img/play_w108px_X_h95px.jpg) no-repeat;
-  margin: 0 15px;
+  margin: 0 12px;
 }
 .story-list .forth{
   content: url(../img/mts_w108px_X_h95px.jpg) no-repeat;
-  margin: 0 15px;
+  margin: 0 12px;
 }
 .story-list .fifth{
   content: url(../img/MAX_telecom_w108px_X_h95.jpg) no-repeat;
-  margin: 0 15px;
+  margin: 0 12px;
 }
 .story-list .sixth{
   content: url(../img/Kyivstarw_w108px_X_h95.jpg) no-repeat;
-  margin: 0 15px;
+  margin: 0 12px;
 }
 .story-list .seventh{
   content: url(../img/Jersey_Telecom_w100px_X_h42px.jpg) no-repeat;
   height: 60px;
-  margin: 5px 30px;
+  margin: 5px 20px;
 }
 .story-list .eight{
   content: url(../img/cable_wireless_w100px_X_h42px2.jpg) no-repeat;
   height: 60px;
-  margin: 5px 30px;
+  margin: 5px 20px;
 }
 .last-section{
   background: black;
