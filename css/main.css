@@ -462,7 +462,7 @@ b , strong {
   background: #FFFFFF;
 }
 .story-list > li > blockquote .blck-quote {
-  height: 150px;
+  height: 100px;
   float: left;
   border-bottom: 1px solid #ccc;
   margin: 0 auto;
