@@ -633,6 +633,9 @@ footer{
 .footer-section{
   margin: 0 auto;
   height: 400px;
+  max-width: 960px;
+  min-width: 800px;
+  width: 960px;
 }
 .footer-links {
     height: auto;
