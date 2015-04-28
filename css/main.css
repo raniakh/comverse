@@ -589,8 +589,15 @@ b , strong {
 .story-list > li:last-child{
   width: 270px;
 }
+footer{
+    background-color: #2B2B2B;
+    padding: 0;
+    width: 100%;
+    margin: 0;
+}
+
 .last-section{
-  background: black;
+  margin: 0 auto;
 }
 .last-section ul{
   list-style-type: none;
@@ -609,14 +616,14 @@ b , strong {
 .more-list a{
   color: #FFFFFF;
 }
-span.another-day{
+.another-day{
   display: block;
   font-size: 40px;
   font-weight: normal;
   width: 55px;
   text-align: center;
 }
-span.another-month{
+.another-month{
   display: block;
   font-size: 20px;
   font-weight: normal;
