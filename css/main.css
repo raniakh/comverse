@@ -534,6 +534,7 @@ b , strong {
   width: 95px;
 }
 .person-dets{
+  border-top: 1px solid #ccc;
   padding-top: 13px;
   text-align: left;
 }
