@@ -182,7 +182,7 @@ b , strong {
   width: 30px;
   height: 30px;
   border-radius: 5px;
-  background-color: #3498db;
+  background: #3498db;
 }
 .cubes{
       list-style-type: none;
