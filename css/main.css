@@ -489,6 +489,10 @@ b , strong {
   height: 100px;
   width: 100px;
 }
+.blck-quote{
+  height: 80px;
+  width: 85px;
+}
 .story-list .blck-quote:before{
   content: "";
   background: url(../img/quote-grey.png) no-repeat;
