@@ -610,6 +610,7 @@ footer{
 }
 .more-list > li{
   display: inline-block;
+  margin: 0 10px;
 }
 .more-list h4, .more-list p{
   text-transform: uppercase;
