@@ -586,6 +586,9 @@ b , strong {
   width: 120px;
   margin-left: 50px;
 }
+.story-list > li:last-child{
+  width: 100px;
+}
 .last-section{
   background: black;
 }
