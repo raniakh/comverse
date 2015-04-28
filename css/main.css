@@ -332,6 +332,7 @@ b , strong {
     -moz-background-size: cover;
     color: #FFFFFF;
     text-align: center;
+    height: 460px;
 }
 .section-news-events h1{
   padding: 20px 0;
@@ -435,6 +436,7 @@ b , strong {
   background: #F5F5F5;
   color: #000000;
   text-align: center;
+  height: 530px;
 }
 .wrap-sucess-story .section-general > h1{
   margin: 0 auto;
