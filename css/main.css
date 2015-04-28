@@ -535,8 +535,9 @@ b , strong {
 }
 .person-dets{
   border-top: 1px solid #ccc;
-  padding-top: 9px;
+  padding-top: 3px;
   text-align: left;
+  margin-top: 27px;
 }
 .story-list .special{
   margin-top: 10px;
