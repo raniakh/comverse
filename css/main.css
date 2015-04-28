@@ -535,7 +535,7 @@ b , strong {
 .person-dets{
   margin-top: 10px;
   border-top: thin solid #DCDCDC;
-  float: left;
+  text-align: left;
 }
 .story-list .special{
   margin-top: 10px;
