@@ -174,14 +174,20 @@ b , strong {
     color: #FFFFFF;
 }
 .slideshow{
-  list-style-type: none;
   padding: 5px;
 }
 .slideshow > li{
-  width: 30px;
+  /*width: 30px;
   height: 30px;
   border-radius: 5px;
-  background: #3498db;
+  background: #3498db;*/
+  width: 30px;
+        height: 30px;
+        margin-left: 0;
+        margin-right: 5px;
+        padding: 0;
+        border-radius: 3px;
+        color: #565656;
 }
 .cubes{
       list-style-type: none;
