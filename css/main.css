@@ -596,13 +596,13 @@ footer{
     margin: 0;
 }
 
-.last-section{
+.footer-section{
   margin: 0 auto;
 }
-.last-section ul{
+.footer-section ul{
   list-style-type: none;
 }
-.last-section a{
+.footer-section a{
   text-decoration: none;
 }
 .more-list{
