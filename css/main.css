@@ -22,13 +22,20 @@
 .header-container{
   margin: 0 auto;
 }
+
+.container {
+  padding: 0;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 .comverse-logo{
-    padding: 10px 25px;
+    padding: 7px 0 0 0;
     float: left;
     display: inline-block;
 }
 .nav-links{
-    font-size: 15px;
+    font-size: 13px;
     float: left;
     position: relative;
     padding-top: -10px;
@@ -115,7 +122,7 @@
     float: right;
     display: inline-block;
     position: relative;
-    padding-top: 45px;
+    padding-top: 11px;
 
 }
 .search input{
@@ -150,6 +157,14 @@ h1 {
 b , strong {
   font-weight: 500;
 }
+
+
+.header-do {
+  font-size: 2em;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
 .wrap-section-first{
     padding-top: 75px;
     background: url(../img/slide-bg-complexity.jpg) no-repeat center;
@@ -159,10 +174,11 @@ b , strong {
     color: #FFFFFF;
 }
 .cubes{
-    list-style-type: none;
+      list-style-type: none;
     padding: 0;
     margin-top: 100px;
-    padding-bottom: 20px;
+    padding-bottom: 2em;
+    margin-bottom: -1.3em;
 }
 .cube-item{
   border-radius: 8px;
@@ -235,6 +251,7 @@ b , strong {
   background: #6495ED;
   color: #FFFFFF;
   text-align: center;
+  height: 340px;
 }
 .wrap-section-do figcaption{
   color: #FFFFFF; 
@@ -318,6 +335,7 @@ b , strong {
 }
 .section-news-events h1{
   padding: 20px 0;
+  margin: 0 auto;
 }
 .event-list{
   list-style-type: none;
