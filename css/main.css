@@ -591,11 +591,14 @@ b , strong {
 .story-list > li:last-child{
   width: 270px;
 }
+.footer-container{
+  text-align: center;
+}
 footer{
     background-color: #2B2B2B;
     padding: 0;
     width: 100%;
-    margin: 0;
+    margin: 0 auto;
     height: auto;
 }
 .footer-listhead{
