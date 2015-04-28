@@ -611,7 +611,7 @@ footer{
 .footer-column{
   float: left;
   margin-right: 32px;
-  line-height: 15px;
+  line-height: 25px;
 }
 .key-sols, .product-service, .company{
   list-style: none;
