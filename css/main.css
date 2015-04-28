@@ -173,6 +173,17 @@ b , strong {
     -moz-background-size: cover;
     color: #FFFFFF;
 }
+.slideshow{
+  list-style-type: none;
+  padding: 5px;
+}
+.slideshow > li{
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: #3498db;
+}
 .cubes{
       list-style-type: none;
     padding: 0;
