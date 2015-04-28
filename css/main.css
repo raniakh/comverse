@@ -445,7 +445,8 @@ b , strong {
   padding: 0;
 }
 .story-list > li{
-  background: #FFFFFF;
+  /*background: #FFFFFF;*/
+  background: #F5F5F5;
   border-radius: 3px;
   width: 30%;
   display: inline-block;
