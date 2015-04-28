@@ -734,6 +734,21 @@ footer{
     width: 28px;
     height: 22px;
 }
+.footer-privacy {
+    font-size: 14px;
+    width: 676px;
+    height: 20px;
+    float: left;
+    margin-top:58px;
+    display: inline-block;
+}
+.footer-list{
+  list-style-type: none;
+}
+.footer-list > li{
+  display: inline-block;
+  color: grey;
+}
 body{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
