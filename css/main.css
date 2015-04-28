@@ -461,10 +461,9 @@ b , strong {
   font-weight: lighter;
   background: #FFFFFF;
 }
-.story-list > li > blockquote .blck-quote {
+.story-list > li > blockquote .blck-quote + p {
   height: 100px;
   padding-bottom: 20px;
-  border-bottom: 1px solid #ccc;
   margin: 0 auto;
 }
 .story-list a{
