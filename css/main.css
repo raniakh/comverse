@@ -463,6 +463,7 @@ b , strong {
 }
 .story-list > li > p{
   height: 150px;
+  float: left;
 }
 .story-list a{
   text-decoration: none;
@@ -534,6 +535,7 @@ b , strong {
 .story-list .special{
   margin-top: 10px;
   height: 100px;
+  width: 100%;
 }
 .story-list .company{
   display: inline-block;
