@@ -604,6 +604,7 @@ footer{
 }
 .footer-section{
   margin: 0 auto;
+  height: 400px;
 }
 .footer-links {
     height: auto;
@@ -626,6 +627,19 @@ footer{
 }
 .footer-links a:hover{
   text-decoration: underline;
+}
+.footer-side{
+  float: right;
+  background-color: #3d3d3d;
+  width: 240px;
+  position: relative;
+  padding: 0 12px;
+  height: 350px;
+}
+.footer-side h3{
+  color: #3498db;
+  font-size: 20px;
+  text-transform: uppercase;
 }
 .more-list{
   list-style-type: none;
