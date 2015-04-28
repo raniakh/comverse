@@ -696,6 +696,39 @@ footer{
     display: inline-block;
     position: relative;
 }
+.social-icons {
+    padding: 10px;
+    width: 230px;
+    position: absolute;
+    bottom:0;
+}
+.icon:hover {
+    -webkit-filter: brightness(0.45);
+}
+
+.ico-youtube:before {
+    background: url(../img/socialMenuIcon-youtube.png) no-repeat;
+    content: "";
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+}
+
+.ico-twitter:before {
+    background: url(../img/socialMenuIcon-twitter.png) no-repeat;
+    content: "";
+    display: inline-block;
+    width: 30px;
+    height: 22px;
+}
+
+.ico-linkedin:before {
+    background: url(../img/socialMenuIcon-linkdin.png) no-repeat;
+    content: "";
+    display: inline-block;
+    width: 28px;
+    height: 22px;
+}
 body{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
