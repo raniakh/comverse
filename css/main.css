@@ -576,12 +576,14 @@ b , strong {
 }
 .story-list .seventh{
   content: url(../img/Jersey_Telecom_w100px_X_h42px.jpg) no-repeat;
- /* height: 60px;*/
+  height: 90px;
+  width: 90px;
   margin-right: 20px;
 }
 .story-list .eight{
   content: url(../img/cable_wireless_w100px_X_h42px2.jpg) no-repeat;
- /* height: 60px;*/
+  height: 90px;
+  width: 90px;
   margin-left: 20px;
 }
 .last-section{
