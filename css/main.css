@@ -459,6 +459,7 @@ b , strong {
   padding: 10px;
   margin: 0 auto;
   font-weight: lighter;
+  background: #FFFFFF;
 }
 .story-list > li > p{
   height: 150px;
