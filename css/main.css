@@ -167,7 +167,7 @@ b , strong {
 
 .wrap-section-first{
     padding-top: 75px;
-    background: url(../img/slide-bg-complexity.jpg) no-repeat center;
+    background: url(../img/slide-bg-complexity.jpg) no-repeat center fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -763,7 +763,7 @@ footer{
     width: 676px;
     height: 20px;
     float: left;
-    margin-top:80px;
+    margin-top:-48px;
     display: inline-block;
 }
 .footer-list{
