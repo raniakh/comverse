@@ -193,7 +193,7 @@ b , strong {
 .slideshow li:hover{
   background-color: #3498db;
 }
-.selected{
+#selected{
   background-color: #3498db;
 }
 .cubes{
