@@ -539,15 +539,12 @@ b , strong {
 }
 .story-list .first{
   content: url(../img/upc_w108px_X_h95px.jpg) no-repeat;
-  margin: 0 20px;
 }
 .story-list .second{
   content: url(../img/VIDEOCON_w108px_X_h95px.jpg) no-repeat;
-  margin: 0 20px;
 }
 .story-list .third{
   content: url(../img/play_w108px_X_h95px.jpg) no-repeat;
-  margin: 0 20px;
 }
 .story-list .forth{
   content: url(../img/mts_w108px_X_h95px.jpg) no-repeat;
