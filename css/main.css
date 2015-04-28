@@ -631,7 +631,7 @@ footer{
 .footer-side{
   float: right;
   background-color: #3d3d3d;
-  width: 240px;
+  width: 276px;
   position: relative;
   padding: 0 12px;
   height: 350px;
@@ -663,6 +663,9 @@ footer{
 }
 .footer-blog-post:hover{
   text-decoration: underline;
+}
+.footer-blog{
+  border-bottom: 1px solid #A9A9A9;
 }
 .another-day{
   display: block;
