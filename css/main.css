@@ -455,15 +455,17 @@ b , strong {
   vertical-align: middle;
   text-align: center;
 }
-.story-list > li blockquote{
+.story-list > li > blockquote{
   padding: 10px;
   margin: 0 auto;
   font-weight: lighter;
   background: #FFFFFF;
 }
-.story-list > li > p{
+.story-list > li > blockquote > p{
   height: 150px;
   float: left;
+  border-bottom: 1px solid #ccc;
+  margin: 0 auto;
 }
 .story-list a{
   text-decoration: none;
@@ -488,10 +490,6 @@ b , strong {
   float: left;
   height: 100px;
   width: 100px;
-}
-.blck-quote{
-  height: 150px;
-  width: 70px;
 }
 .story-list .blck-quote:before{
   content: "";
@@ -538,7 +536,6 @@ b , strong {
 }
 .person-dets{
   margin-top: 10px;
-  border-top: thin solid #DCDCDC;
   text-align: left;
 }
 .story-list .special{
