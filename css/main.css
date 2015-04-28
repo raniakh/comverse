@@ -514,6 +514,7 @@ b , strong {
   float: right;
   height: 60px;
   width: 95px;
+  padding-top: 5px;
 }
 .story-list .company-icon2:after{
   content: "";
@@ -523,6 +524,7 @@ b , strong {
   float: right;
   height: 60px;
   width: 95px;
+  padding-top: 5px;
 }
 .story-list .company-icon3:after{
   content: "";
