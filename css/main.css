@@ -680,6 +680,13 @@ footer{
   margin: 0;
   height: 30px;
 }
+.sign-up{
+  background-color: #3498db;
+  border-radius: 3px;
+  border: none;
+  color: white;
+}
+
 .footer-subscribe{
     float: left;
     display: inline-block;
