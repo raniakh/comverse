@@ -461,7 +461,7 @@ b , strong {
   font-weight: lighter;
   background: #FFFFFF;
 }
-.story-list > li > blockquote > .blck-quote {
+.story-list > li > blockquote .blck-quote {
   height: 150px;
   float: left;
   border-bottom: 1px solid #ccc;
