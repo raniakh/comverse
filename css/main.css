@@ -605,6 +605,12 @@ footer{
 .last-section a{
   text-decoration: none;
 }
+.more-list{
+  list-style-type: none;
+}
+.more-list > li{
+  display: inline-block;
+}
 .more-list h4, .more-list p{
   text-transform: uppercase;
   color: #FFFFFF;
