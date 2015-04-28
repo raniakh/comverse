@@ -542,7 +542,7 @@ b , strong {
 }
 .story-list .first{
   content: url(../img/upc_w108px_X_h95px.jpg) no-repeat;
-  margin: 0 13px;
+  margin-right: 13px;
 }
 .story-list .second{
   content: url(../img/VIDEOCON_w108px_X_h95px.jpg) no-repeat;
@@ -550,7 +550,7 @@ b , strong {
 }
 .story-list .third{
   content: url(../img/play_w108px_X_h95px.jpg) no-repeat;
-  margin: 0 13px;
+  margin-left: 13px;
 }
 .story-list .forth{
   content: url(../img/mts_w108px_X_h95px.jpg) no-repeat;
