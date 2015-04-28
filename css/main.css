@@ -178,11 +178,12 @@ b , strong {
   list-style-type: none;
   left: 0;
   font-size: 0;
+  margin-top: 20px;
 }
 .slideshow li{
   background-color: #A9A9A9;
-  width: 30px;
-  height: 30px;
+  width: 15px;
+  height: 15px;
   float: left;
   margin-left: 5px;
   padding: 0;
@@ -190,6 +191,9 @@ b , strong {
   display: inline-block;
 }
 .slideshow li:hover{
+  background-color: #3498db;
+}
+.selected{
   background-color: #3498db;
 }
 .cubes{
