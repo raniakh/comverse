@@ -576,18 +576,18 @@ b , strong {
 }
 .story-list .seventh{
   content: url(../img/Jersey_Telecom_w100px_X_h42px.jpg) no-repeat;
-  height: 90px;
-  width: 120px;
-  margin-right: 50px;
+  height: 100px;
+  width: 100px;
+  margin-right: 30px;
 }
 .story-list .eight{
   content: url(../img/cable_wireless_w100px_X_h42px2.jpg) no-repeat;
-  height: 90px;
-  width: 120px;
-  margin-left: 50px;
+  height: 100px;
+  width: 100px;
+  margin-left: 40px;
 }
 .story-list > li:last-child{
-  width: 100px;
+  width: 270px;
 }
 .last-section{
   background: black;
