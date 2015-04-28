@@ -749,6 +749,13 @@ footer{
   display: inline-block;
   color: grey;
 }
+.footer-list > li a{
+  text-decoration: none;
+  color: grey;
+}
+.footer-list > li a:hover{
+  text-decoration: underline;
+}
 body{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
