@@ -224,7 +224,7 @@ b , strong {
 .cube-head{
   padding: 0;
   height: 100px;
-  width:220px;
+ /* width:220px;*/
   margin-top: 0;
   color: #FFFFFF;
   font-weight: normal;
@@ -784,6 +784,48 @@ footer{
 .footer-list > li a:hover{
   text-decoration: underline;
 }
+
+/* **********************************************************
+  MEDIA QUERIES 
+********************************************************** */
+
+@media all and (max-width: 1004px) and (min-width: 768px) {
+  .container{
+    padding: 0;
+    max-width: 768px;
+    margin: 0 auto;
+  }
+  .comverse-logo{
+    padding: 30px 5px
+
+  }
+  .comverse-logo > img{
+    width: 95px;
+    height: 32px;
+  }
+  .nav-links{
+    font-size: 10px;
+  }
+  /* SEE IF NECESSARY 
+  .section-general{
+    padding: 0;
+    margin: 0 auto;
+    max-width: 768px;
+  }*/ 
+.cube-item{
+  border-radius: 8px;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  display: inline-block;
+  width: 200px;
+  cursor: pointer;
+  padding: 10px 15px;
+  margin-right: 20px;
+}
+
+
+}
+
 body{
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
