@@ -836,8 +836,11 @@ footer{
     height: 18px;
     display: inline-block;
     position: relative;
+    width: 148px;
 }
-
+.do-list li{
+  width: 16%;
+}
 
 }
 
