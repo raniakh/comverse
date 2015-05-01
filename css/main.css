@@ -841,6 +841,8 @@ footer{
 .do-list li{
   width: 12.5%;
 }
+.event-list > li{
+width: 32%;
 
 }
 
