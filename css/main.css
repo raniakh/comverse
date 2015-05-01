@@ -822,6 +822,21 @@ footer{
   padding: 10px 15px;
   margin-right: 20px;
 }
+.search{
+    float: right;
+    display: inline-block;
+    position: relative;
+    padding-top: 5px;
+
+}
+.search input{
+    border: 2px solid #a1a1a1;
+    border-radius: 5px;
+    margin: 0;
+    height: 18px;
+    display: inline-block;
+    position: relative;
+}
 
 
 }
