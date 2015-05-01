@@ -844,13 +844,10 @@ footer{
 .event-list > li{
 width: 25%;
 }
-/*
-.date-event{
-  width: 35px;
-}*/
 .event-list p{
   padding: 11px;
 }
+/* TODO: SUCCESS STORY SECTION AND FOOTER*/
 
 }
 
