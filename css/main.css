@@ -848,6 +848,9 @@ width: 25%;
 .date-event{
   width: 35px;
 }*/
+.event-list p{
+  padding: 3px;
+}
 
 }
 
