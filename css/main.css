@@ -1087,6 +1087,9 @@ h1{
 .story-list li:nth-child(2){
   display: none;
 }
+.wrap-sucess-story{
+  height: 620px;
+}
 
 }
 
