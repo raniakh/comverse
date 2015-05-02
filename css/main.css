@@ -922,10 +922,19 @@ width: 25%;
 .comverse-logo > img{
   width: 95px;
   height: 32px;
-  vertical-align: middle;
+  float: none;
+  margin: 0 auto;
+  display: inherit;
   }
   .side-link a{
     display: none;
+  }
+  .search button{
+    position: absolute;
+    top: 20px;
+    right: 10px;
+    margin: 5px;
+
   }
 
 
