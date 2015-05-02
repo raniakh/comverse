@@ -1066,7 +1066,12 @@ h1{
 .event-list > li{
   display: block;
   width: auto;
-  
+}
+.event-list h2{
+  text-align: left;
+}
+.section-news-events{
+  height: 600px;
 }
 
 }
