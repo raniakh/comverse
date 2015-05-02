@@ -486,10 +486,11 @@ b , strong {
   font-weight: lighter;
   background: #FFFFFF;
 }
-.story-list > li > blockquote .blck-quote + p {
+.story-list > li > blockquote .blck-quote p {
   height: 100px;
   padding-bottom: 20px;
   margin: 0 auto;
+  padding-left: 8%;
 }
 .story-list a{
   text-decoration: none;
@@ -595,30 +596,40 @@ width: 26%;
 }
 .story-list .forth{
   content: url(../img/mts_w108px_X_h95px.jpg) no-repeat;
-  margin-right: 19px;
+  margin-right: 5%;
+  width: 26%;
 }
 .story-list .fifth{
   content: url(../img/MAX_telecom_w108px_X_h95.jpg) no-repeat;
-  margin: 0 19px;
+  margin: 0 5%;
+  width: 26%;
 }
 .story-list .sixth{
   content: url(../img/Kyivstarw_w108px_X_h95.jpg) no-repeat;
-  margin-left: 19px;
+  margin-left: 5%;
+  width: 26%;
 }
 .story-list .seventh{
   content: url(../img/Jersey_Telecom_w100px_X_h42px.jpg) no-repeat;
-  height: 100px;
+  /*height: 100px;
   width: 100px;
-  margin-right: 30px;
+  margin-right: 30px;*/
+  height: 90%;
+  width: 32%;
+  margin-right: 11%;
 }
 .story-list .eight{
   content: url(../img/cable_wireless_w100px_X_h42px2.jpg) no-repeat;
-  height: 100px;
+ /* height: 100px;
   width: 100px;
-  margin-left: 40px;
+  margin-left: 40px;*/
+  height: 90%;
+  width: 32%;
+  margin-left: 11%;
 }
 .story-list > li:last-child{
-  width: 270px;
+ /* width: 270px;*/
+ width: 17%;
 }
 .footer-container{
   text-align: center;
