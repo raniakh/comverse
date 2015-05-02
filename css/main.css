@@ -907,6 +907,22 @@ width: 25%;
 }
 
 }
+@media all and (max-width: 768px){
+  .search input{
+    display: none;
+  }
+.nav-links{
+  display: none;
+}
+.comverse-logo {
+   margin: 0 auto;
+  float: none;
+  display: block;
+}
+
+
+
+}
 
 body{
     font-size: 15px;
