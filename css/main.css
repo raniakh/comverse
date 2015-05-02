@@ -889,6 +889,7 @@ width: 25%;
   display: block;
   float: left;
   height: 100px;*/
+  display: inline-block;
   max-width: 80px;
 }
 
