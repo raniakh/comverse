@@ -876,10 +876,10 @@ width: 25%;
 .story-list > li{
   width: 30%;
   margin: 3px;
-}/*
-.story-list > li:last-child{
-  width: 20%;
-}*/
+}
+.story-list .special-top{
+  margin-top: 0%;
+}
 
 }
 
