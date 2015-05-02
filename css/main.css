@@ -948,15 +948,10 @@ width: 25%;
   }
   .mobile-nav{
     display: block;
-  }/*
-  .mobile-nav span:before{
-  content:"";
-  background: url(../img/hamburger-icon.png) no-repeat;
-  display: block;
-}*/
+  }
 .mobile-nav button{
    position: absolute;
-    top: -30px;
+    top: 7px;
     left: 10px;
     margin: 5px;
     background-color: #f2f2f2;
@@ -968,7 +963,31 @@ width: 25%;
 }
   .mobile-nav button img{
     width: 20px;
-    height: 19px;
+    height: 20px;
+  }
+  .mobile-list-nav{
+    display: none;
+    list-style: none;
+    text-transform: uppercase;
+    font: 1.2rem "Open Sans";
+    position: absolute;
+    left: 0;
+    top:0;
+    z-index: 1;
+    width: 100%;
+    padding: 0;
+  }
+  .mobile-list-nav ul{
+    list-style: none;
+    background: white;
+    padding: 0;
+  }
+  .mobile-list-nav li{
+  background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
+  background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+  background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
+  background: -o-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
+  background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
   }
 
 }
