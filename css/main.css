@@ -1023,6 +1023,28 @@ width: 25%;
     display: block;
     top:56px;
     }
+  .slideshow{
+    font-size: 1rem;
+    padding: 5px;
+  }
+  .slideshow li{
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    border-radius: 3px;
+    color: #808080;
+  }
+  .slideshow li:hover{
+    color: #FFFFFF;
+  }
+  .cube-item{
+  border-radius: 0;
+  display: block;
+  width: auto;
+  cursor: pointer;
+  opacity: 1;
+  margin-top: 10px;
+}
 
 }
 
