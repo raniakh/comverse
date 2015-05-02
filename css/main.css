@@ -934,7 +934,11 @@ width: 25%;
     top: 20px;
     right: 10px;
     margin: 5px;
-
+    background-color: #a0a0a0;
+  }
+  .search button img{
+    width: 30px;
+    height: 30px;
   }
 
 
