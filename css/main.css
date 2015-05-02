@@ -877,8 +877,19 @@ width: 25%;
   width: 30%;
   margin: 3px;
 }
-.story-list .special-top{
-  margin-top: 0%;
+.story-list > li > blockquote .blck-quote p{
+  font-size: 12px;
+}
+.person-dets{
+  font-size: 12px;
+}
+.story-list .face1:before, .story-list .face2:before{
+ /* content: "";
+  background: url(../img/CB-JP-face.png) no-repeat;
+  display: block;
+  float: left;
+  height: 100px;*/
+  max-width: 80px;
 }
 
 }
