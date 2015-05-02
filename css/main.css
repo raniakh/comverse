@@ -919,7 +919,14 @@ width: 25%;
   float: none;
   display: block;
 }
-
+.comverse-logo > img{
+  width: 95px;
+  height: 32px;
+  vertical-align: middle;
+  }
+  .side-link a{
+    display: none;
+  }
 
 
 }
