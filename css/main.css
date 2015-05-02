@@ -954,35 +954,22 @@ width: 25%;
   background: url(../img/hamburger-icon.png) no-repeat;
   display: block;
 }*/
-.hamburger-menu
-{
-    width:30px;
-    height:5px;
-    background-color:#f2f2f2;
-    border-radius:5px;
-    position:relative;
+.mobile-nav button{
+   position: absolute;
+    top: -30px;
+    left: 10px;
+    margin: 5px;
+    background-color: #f2f2f2;
+    border: 1px solid #d9d9d9;
+    border-radius: 5px;
+    height: 38px;
+    width: 38px;
+    float: none;
 }
-
-.hamburger-menu:after, .hamburger-menu:before
-{
-    content: '';
-    width: 100%;
-    height:5px;
-    background-color:#f2f2f2;
-    position:absolute;
-    border-radius:5px;
-}
-
-.hamburger-menu:after
-{
-    top:10px;
-}
-
-.hamburger-menu:before
-{
-    top:20px;
-}
-
+  .mobile-nav button img{
+    width: 20px;
+    height: 19px;
+  }
 
 }
 
