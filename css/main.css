@@ -578,7 +578,7 @@ b , strong {
 .story-list .first{
   content: url(../img/upc_w108px_X_h95px.jpg) no-repeat;
  /* margin-right: 19px;*/
- margin-right: 5%;
+ margin-right: 4%;
 }
 .story-list .second{
   content: url(../img/VIDEOCON_w108px_X_h95px.jpg) no-repeat;
