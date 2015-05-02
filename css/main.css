@@ -892,6 +892,14 @@ width: 25%;
   display: inline-block;
   max-width: 80px;
 }
+.footer-section{
+  max-width: 768px;
+  min-width: 768px;
+}
+.footer-side{
+  display: none;
+}
+
 
 }
 
