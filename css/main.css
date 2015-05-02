@@ -575,62 +575,68 @@ b , strong {
 .story-list .company{
   display: inline-block;
   float: left;
+  width: 26%
 }
 .story-list .first{
   content: url(../img/upc_w108px_X_h95px.jpg) no-repeat;
  /* margin-right: 19px;*/
  margin-right: 5%;
- width: 26%;
+/* width: 26%;*/
 }
 .story-list .second{
   content: url(../img/VIDEOCON_w108px_X_h95px.jpg) no-repeat;
 /*  margin: 0 19px; */
 margin: 0 5%;
-width: 26%;
+/*width: 26%;*/
 }
 .story-list .third{
   content: url(../img/play_w108px_X_h95px.jpg) no-repeat;
  /* margin-left: 19px;*/
  margin-left: 5%;
- width: 26%
+ /*width: 26%*/
 }
 .story-list .forth{
   content: url(../img/mts_w108px_X_h95px.jpg) no-repeat;
   margin-right: 5%;
-  width: 26%;
+ /* width: 26%;*/
 }
 .story-list .fifth{
   content: url(../img/MAX_telecom_w108px_X_h95.jpg) no-repeat;
   margin: 0 5%;
-  width: 26%;
+ /*width: 26%;*/
 }
 .story-list .sixth{
   content: url(../img/Kyivstarw_w108px_X_h95.jpg) no-repeat;
   margin-left: 5%;
-  width: 26%;
+  /*width: 26%;*/
 }
 .story-list .seventh{
   content: url(../img/Jersey_Telecom_w100px_X_h42px.jpg) no-repeat;
   /*height: 100px;
   width: 100px;
   margin-right: 30px;*/
-  height: 95%;
-  width: 34%;
-  margin-right: 15%;
+ /* height: 95%;*/
+/*  width: 34%;*/
+  margin-right: 5%;
 }
 .story-list .eight{
   content: url(../img/cable_wireless_w100px_X_h42px2.jpg) no-repeat;
  /* height: 100px;
   width: 100px;
   margin-left: 40px;*/
-  height: 95%;
-  width: 34%;
-  margin-left: 15%;
+/*  height: 95%;
+  width: 34%;*/
+margin: 0 5%;
 }
-.story-list > li:last-child{
- /* width: 270px;*/
+.story-list .ninth{
+  content: url(../img/play_w108px_X_h95px.jpg) no-repeat;
+  margin-left: 5%;
+}
+/*
+.story-list > li:last-child{*/
+ /* width: 270px;*/ /*
  width: 17%;
-}
+}*/
 .footer-container{
   text-align: center;
 }
