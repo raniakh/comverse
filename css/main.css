@@ -899,7 +899,9 @@ width: 25%;
 .footer-side{
   display: none;
 }
-
+.footer-column{
+  margin-right: 70px;
+}
 
 }
 
