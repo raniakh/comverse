@@ -992,6 +992,33 @@ width: 25%;
   background: -o-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
   background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
   }
+  label {
+    display: block;
+    border: 1px solid #d9d9d9;
+    border-radius: 5px;
+    text-decoration: none;
+    background: linear-gradient(to bottom, #f2f2f2 0%,#e5e5e5 100%);
+    }
+.mobile-list-nav label{
+  width: 100%;
+  background : #FFFFFF;
+}
+   .mobile-list-nav li a,
+    .mobile-list-nav label {
+    background-color: #FFFFFF;
+    padding: 0 20px;
+    height: 2rem;
+    text-transform: uppercase;
+    display: block;
+    text-align: left;
+    width: 100%;
+    border-bottom: 1px solid #dbdbdb;
+    border-top: 1px solid #fff;
+    font: 14px;
+    text-decoration: none;
+    line-height: 2.1rem;
+    }
+
   input[type="checkbox"]:checked ~ ul {
     display: block;
     top:56px;
