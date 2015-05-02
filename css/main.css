@@ -488,9 +488,9 @@ b , strong {
 }
 .story-list > li > blockquote .blck-quote p {
   height: 100px;
-  padding-bottom: 20px;
+  /*padding-bottom: 20px;*/
   margin: 0 auto;
-  padding-left: 8%;
+  padding-left: 15%;
 }
 .story-list a{
   text-decoration: none;
@@ -540,7 +540,7 @@ b , strong {
   float: right;
   height: 60px;
   width: 95px;
-  margin-top: 20px;
+  margin-top: 28px;
 }
 .story-list .company-icon2:after{
   content: "";
@@ -550,7 +550,7 @@ b , strong {
   float: right;
   height: 60px;
   width: 95px;
-  margin-top: 20px;
+  margin-top: 30px;
 }
 .story-list .company-icon3:after{
   content: "";
@@ -560,7 +560,7 @@ b , strong {
   float: right;
   height: 60px;
   width: 95px;
-  margin-top: 20px;
+  margin-top: 28px;
 }
 .person-dets{
   border-top: 1px solid #ccc;
@@ -614,18 +614,18 @@ width: 26%;
   /*height: 100px;
   width: 100px;
   margin-right: 30px;*/
-  height: 90%;
-  width: 32%;
-  margin-right: 11%;
+  height: 95%;
+  width: 34%;
+  margin-right: 15%;
 }
 .story-list .eight{
   content: url(../img/cable_wireless_w100px_X_h42px2.jpg) no-repeat;
  /* height: 100px;
   width: 100px;
   margin-left: 40px;*/
-  height: 90%;
-  width: 32%;
-  margin-left: 11%;
+  height: 95%;
+  width: 34%;
+  margin-left: 15%;
 }
 .story-list > li:last-child{
  /* width: 270px;*/
