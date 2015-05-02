@@ -1079,7 +1079,7 @@ h1{
   height: 620px;
 }
 .story-list > li{
-  width: 53%;
+  width: 50%;
   display: block;
   float: none;
   margin: 0 auto;
@@ -1088,7 +1088,15 @@ h1{
   display: none;
 }
 .wrap-sucess-story{
-  height: 620px;
+  height: 865px;
+}
+.story-list .face3:before{
+  content: "";
+  background: url(../img/JT-GM-face.png) no-repeat;
+  display: block;
+  float: left;
+  height: 100px;
+  width: 95px;
 }
 
 }
