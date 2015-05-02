@@ -572,6 +572,9 @@ b , strong {
   margin-top: 10px;
   height: 100px;
 }
+.story-list .special-top{
+  margin-bottom: 10px;
+}
 .story-list .company{
   display: inline-block;
   float: left;
