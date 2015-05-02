@@ -867,16 +867,10 @@ width: 25%;
 .story-list > li{
   width: 30%;
   margin: 3px;
-}/*
-.story-list .first {
-  margin-right: 8px;
 }
-.story-list .second{
-  margin: 0 8px;
+.story-list > li:last-child{
+  width: 20%;
 }
-.story-list .third{
-  margin-left: 8px;
-}*/
 
 }
 
