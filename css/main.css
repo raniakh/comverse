@@ -946,7 +946,10 @@ width: 25%;
     width: 20px;
     height: 19px;
   }
-  .hamburger:before{
+  .mobile-nav{
+    display: block;
+  }
+  .mobile-nav span:before{
   content:"";
   background: url(../img/hamburger-icon.png) no-repeat;
   display: block;
