@@ -1079,10 +1079,13 @@ h1{
   height: 620px;
 }
 .story-list > li{
-  width: 95%;
+  width: 53%;
   display: block;
   float: none;
   margin: 0 auto;
+}
+.story-list li:nth-child(2){
+  display: none;
 }
 
 }
