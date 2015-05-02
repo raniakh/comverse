@@ -1061,7 +1061,12 @@ h1{
   width: 32%;
 }
 .wrap-section-do{
-  height: 540px;
+  height: 520px;
+}
+.event-list > li{
+  display: block;
+  width: auto;
+  
 }
 
 }
