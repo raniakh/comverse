@@ -1051,7 +1051,11 @@ width: 25%;
   opacity: 1;
   margin-top: 10px;
   font-size: 24px;
+  margin-right: 0;
 
+}
+.do-list > li{
+  width: 32%;
 }
 
 }
