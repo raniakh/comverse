@@ -847,6 +847,10 @@ width: 25%;
 .event-list p{
   padding: 11px;
 }
+.story-list > li{
+  width: 30%;
+  margin: 3px;
+}
 /* TODO: SUCCESS STORY SECTION AND FOOTER*/
 
 }
