@@ -900,7 +900,10 @@ width: 25%;
   display: none;
 }
 .footer-column{
-  margin-right: 70px;
+  margin-right: 63px;
+}
+.footer-privacy{
+  margin-top: 10px;
 }
 
 }
