@@ -1060,6 +1060,9 @@ h1{
 .do-list > li{
   width: 32%;
 }
+.wrap-section-do{
+  height: 540px;
+}
 
 }
 
