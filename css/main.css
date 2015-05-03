@@ -937,7 +937,7 @@ width: 25%;
   }
   .search button{
     position: absolute;
-    top: -40px;
+    top: -30px;
     right: 10px;
     margin: 5px;
     background-color: #f2f2f2;
@@ -985,8 +985,8 @@ width: 25%;
   }
   .mobile-list-nav li{
      background: #FFFFFF;
-     line-height: 1rem;
-     border-bottom: 1px solid #D3D3D3;
+     padding: 5px;
+  	border: 1px solid #d9d9d9;
     /*
   background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
   background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
@@ -994,13 +994,8 @@ width: 25%;
   background: -o-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
   background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);*/
   }
-  .mobile-list-subnav li{
-    line-height: 2rem;
-  }
   label {
     display: block;
-    border: 1px solid #d9d9d9;
-    border-radius: 5px;
     text-decoration: none;
     background: linear-gradient(to bottom, #f2f2f2 0%,#e5e5e5 100%);
     }
@@ -1012,7 +1007,6 @@ width: 25%;
     width: 100%;
     border-radius: 0;
     background : #FFFFFF;
-    border: none;
   }
   .mobile-nav img{
     width: 20px;
@@ -1020,16 +1014,24 @@ width: 25%;
   }
   input[type="checkbox"]:checked ~ ul {
         display: block;
-        top:75px;
+        top:80px;
         margin: 0 auto;
     }
     .mobile-list-nav ul{
       display: none;
     }
 
+    .mobile-list-subnav > li {
+    	  border-bottom: 1px solid #d9d9d9 !important;
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 0px;
+  margin: 0;
+    }
+
     input[type="checkbox"], input[type="radio"] {
       padding: 0;
-      visibility: hidden;
+      display: none;
       box-sizing:border-box;
     }
     .mobile-list-subnav a{
@@ -1160,7 +1162,7 @@ h1{
   text-align: left;
 }
 .section-news-events{
-  height: 700px;
+  height: 620px;
 }
 .story-list > li{
   width: 50%;
