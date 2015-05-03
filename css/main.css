@@ -1131,6 +1131,11 @@ footer{
 }
 .footer-privacy{
   background-color: #FFFFFF;
+  height: auto;
+  width: 100%;
+  float:none;
+  display: block;
+  margin-top: 0rem;
 }
 
 }
