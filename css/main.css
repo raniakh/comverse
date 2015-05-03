@@ -1108,6 +1108,8 @@ h1{
   background-color: #2B2B2B;
   list-style-type: none;
   font-size: 19px;
+  margin: 0;
+  line-height: 3rem;
 }
 .mobile-list-footer li{
   color: #FFFFFF;
@@ -1115,12 +1117,17 @@ h1{
 }
 .mobile-list-footer a{
   text-decoration: none;
+  color: #FFFFFF;
 }
 .footer-side{
   display: none;
 }
 footer{
   height: auto;
+}
+.footer-section{
+  height: auto;
+  width: 100%;
 }
 
 }
