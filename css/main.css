@@ -955,6 +955,69 @@ width: 25%;
   .mobile-nav{
     display: block;
   }
+  .mobile-nav-icon{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    margin: 5px;
+    padding:5px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    border: 1px solid #d9d9d9;
+    float: none;
+  }
+    .mobile-list-nav{
+    display: none;
+    list-style: none;
+    text-transform: uppercase;
+    font: 1.2rem "Open Sans";
+    position: absolute;
+    left: 0;
+    top:0;
+    z-index: 1;
+    width: 100%;
+    padding: 0;
+  }
+    .mobile-list-nav ul{
+    list-style: none;
+    background: white;
+    padding: 0;
+  }
+  .mobile-list-nav li{
+  background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
+  background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+  background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
+  background: -o-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
+  background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
+  }
+  label {
+    display: block;
+    border: 1px solid #d9d9d9;
+    border-radius: 5px;
+    text-decoration: none;
+    background: linear-gradient(to bottom, #f2f2f2 0%,#e5e5e5 100%);
+    }
+
+    label:hover {
+        cursor: pointer;
+    }
+  .mobile-list-nav label{
+    width: 100%;
+    border-radius: 0;
+    background : #FFFFFF;
+  }
+  .mobile-nav img{
+    width: 20px;
+    height: 20px;
+  }
+  input[type="checkbox"]:checked ~ ul {
+        display: block;
+        top:56px;
+    }
+  /*
+  .mobile-nav input{
+    display: none;
+  }
 .mobile-nav button{
    position: absolute;
     top: 7px;
@@ -967,10 +1030,7 @@ width: 25%;
     width: 38px;
     float: none;
 }
-  .mobile-nav button img{
-    width: 20px;
-    height: 20px;
-  }
+  
   .mobile-list-nav{
     display: none;
     list-style: none;
@@ -1025,7 +1085,7 @@ width: 25%;
   input[type="checkbox"]:checked ~ ul {
     display: block;
     top:56px;
-    }
+    }*/
 
     h3{
       padding: 5px;
@@ -1090,7 +1150,7 @@ h1{
   display: none;
 }
 .wrap-sucess-story{
-  height: 865px;
+  height: 878px;
 }
 .story-list .face3:before{
   content: "";
