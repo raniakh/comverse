@@ -1110,13 +1110,14 @@ h1{
   font-size: 19px;
   margin: 0;
   line-height: 3rem;
+  padding-left: 0;
 }
 .mobile-list-footer li{
   color: #FFFFFF;
   border-bottom: 1px solid #000000;
 }
 .mobile-list-footer li:hover{
-  background-color: whitesmoke;
+  background-color: #696969;
 }
 .mobile-list-footer a{
   text-decoration: none;
