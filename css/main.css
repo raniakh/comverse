@@ -982,14 +982,16 @@ width: 25%;
     list-style: none;
     background: white;
     padding: 0;
-  }/*
+  }
   .mobile-list-nav li{
+     background: #FFFFFF;
+    /*
   background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
   background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
   background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
   background: -o-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
-  background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);
-  }*/
+  background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%);*/
+  }
   label {
     display: block;
     border: 1px solid #d9d9d9;
