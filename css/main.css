@@ -1115,6 +1115,9 @@ h1{
   color: #FFFFFF;
   border-bottom: 1px solid #000000;
 }
+.mobile-list-footer li:hover{
+  background-color: whitesmoke;
+}
 .mobile-list-footer a{
   text-decoration: none;
   color: #FFFFFF;
