@@ -1014,6 +1014,15 @@ width: 25%;
         display: block;
         top:56px;
     }
+    .mobile-list-nav ul{
+      display: none;
+    }
+
+    input[type="checkbox"], input[type="radio"] {
+      padding: 0;
+      visibility: hidden;
+      box-sizing:border-box;
+    }
   /*
   .mobile-nav input{
     display: none;
