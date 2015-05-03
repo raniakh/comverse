@@ -1108,9 +1108,18 @@ h1{
   background-color: #2B2B2B;
   list-style-type: none;
 }
-.mobile-list-footer > li{
+.mobile-list-footer li{
   color: #FFFFFF;
   border-bottom: 1px solid #000000;
+}
+.mobile-list-footer a{
+  text-decoration: none;
+}
+.footer-side{
+  display: none;
+}
+footer{
+  height: auto;
 }
 
 }
