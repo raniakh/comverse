@@ -814,7 +814,9 @@ footer{
 .mobile-nav{
   display: none;
 }
-
+.mobile-list-footer{
+  display: none;
+}
 /* **********************************************************
   MEDIA QUERIES 
 ********************************************************** */
@@ -1097,6 +1099,18 @@ h1{
   float: left;
   height: 100px;
   width: 95px;
+}
+.footer-links{
+  display: none;
+}
+.mobile-list-footer{
+  display: block;
+  background-color: #2B2B2B;
+  list-style-type: none;
+}
+.mobile-list-footer > li{
+  color: #FFFFFF;
+  border-bottom: 1px solid #000000;
 }
 
 }
